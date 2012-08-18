@@ -3,7 +3,8 @@
 }
 
 .mojit-container {
-	background: url(//devimages.apple.com.edgekey.net/assets/elements/layout/background_linen.png);
+	/* background: url(//devimages.apple.com.edgekey.net/assets/elements/layout/background_linen.png); */
+	background-color: #979789;
 }
 
 ul.article h3 a {
@@ -44,35 +45,9 @@ li .title a {
     white-space: normal;
 }
 
-
-.error {
-	color: red;
-    background: #CCC;
-}
-
-#edit-form {
-	background: #DDD;
-    border: 0.2em solid #666;
-	padding: 0.5em;
-}
-
-.cid {
-	color: green;
-}
-
 .slots {
     padding: 1em 1em 1em 1em;
-	background: url(//devimages.apple.com.edgekey.net/assets/elements/layout/background_linen.png);
-}
-
-.slots-tablet{
-	padding: 1em 0.5em 1em 0.5em;
-	background: url(//devimages.apple.com.edgekey.net/assets/elements/layout/background_linen.png);
-}
-
-#save_msg {
-	color: red;
-	text-align:center;
+	/* background: url(//devimages.apple.com.edgekey.net/assets/elements/layout/background_linen.png); */
 }
 
 #slot1 {

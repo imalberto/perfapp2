@@ -96,10 +96,10 @@
                                 "mojitID" : "1"
                             }
                         },
-                        "slot2": {
+                        "slot3": {
                             "type": "ListMojit",
                             "config": {
-                                "mojitID" : "2"
+                                "mojitID" : "1"
                             }
                         }
                     }
@@ -116,8 +116,7 @@
                         "top": {
                             "css": [
                             "http://yui.yahooapis.com/3.5.1/build/cssgrids/grids-min.css",
-                            "http://yui.yahooapis.com/3.5.1/build/cssreset/reset-min.css",
-                            "/static/ListMojit/assets/index.css"
+                            "http://yui.yahooapis.com/3.5.1/build/cssreset/reset-min.css"
                             ]
                         }
                     }
@@ -131,8 +130,7 @@
                         "top": {
                             "css": [
                             "http://yui.yahooapis.com/3.5.1/build/cssgrids/grids-min.css",
-                            "http://yui.yahooapis.com/3.5.1/build/cssreset/reset-min.css",
-                            "/static/ListMojit/assets/index.css"
+                            "http://yui.yahooapis.com/3.5.1/build/cssreset/reset-min.css"
                             ]
                         }
                     }
@@ -188,6 +186,24 @@
                         "base": "app2"
                     }
                 }
+            },
+
+
+
+            "demo": {
+                "type": "FirstByteFrameMojit",
+                "config": {
+                    "child": {
+                        "type": "Layout",
+                        "config": {
+                            "children": {
+                                "slot1": {
+                                    "type": "Demo"
+                                }
+                            }
+                        }
+                    }
+                }
             }
 
         }
@@ -222,8 +238,8 @@
         },
 
 
-        "shareYUIInstance": false,
-        "cacheViewTemplates": false,
+        "shareYUIInstance": true,
+        "cacheViewTemplates": true,
         "embedJsFilesInHtmlFrame": false,
         "deployRuntimeClient": {
             "useCompression": false,

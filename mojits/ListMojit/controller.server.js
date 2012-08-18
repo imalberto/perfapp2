@@ -26,6 +26,9 @@ YUI.add('ListMojit', function(Y, NAME) {
             var result,
                 results;
 
+            ac.assets.addCss('./index.css');
+            ac.assets.addCss('./ListMojit-css-asset.css');
+
             result = {};
             result.title = "Progressive insurance on defense after court case";
             result.description = "The Progressive Corp. insurance group is defending itself against an onslaught of negative publicity after it tried to avoid paying $75,000 to the family of a client killed in a car crash and tried to blame the wreck on her.";

@@ -59,9 +59,12 @@
     },
 
     
-    "index": {
+    "demo": {
         "verbs": ["get"],
-        "path": "/",
-        "call": "index.index"
+        "path": "/*",
+        "call": "demo.index",
+        "params": {
+            "firstbyte": true
+        }
     }
 }]

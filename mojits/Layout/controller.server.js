@@ -24,7 +24,9 @@ YUI.add('Layout', function(Y, NAME) {
          *        to the Mojito API.
          */
         index: function(ac) {
+            // NOTE: last opportunity to add assets to the frame + layout
 			ac.assets.addCss('./index.css');
+            ac.assets.addCss('./Layout-css-asset.css');
             if (ac.params.getFromMerged('firstbyte')) {
                 ac.firstbyte.done();
             } else {
