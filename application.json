@@ -1,0 +1,239 @@
+[
+    {
+        "settings": [ "master" ],
+        "mojitsDirs": [
+            "mojits",
+            "/Users/albertoc/fs/ric/git/firstbyte/src/mojits"
+        ],
+
+        "viewEngine": {
+            "mu": {
+                "bufferOutput": true
+            }
+        },
+        "specs": {
+            "app": {
+                "type": "Layout",
+                "config": {
+                    "children": {
+                        "slot1": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "1"
+                            }
+                        },
+                        "slot2": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "2"
+                            }
+                        },
+                        "slot3": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "3"
+                            }
+                        },
+                        "slot4": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "4"
+                            }
+                        },
+                        "slot5": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "5"
+                            }
+                        },
+                        "slot6": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "6"
+                            }
+                        },
+                        "slot7": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "7"
+                            }
+                        },
+                        "slot8": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "8"
+                            }
+                        },
+                        "slot9": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "9"
+                            }
+                        }
+                    }
+                }
+            },
+            "app1": {
+                "type": "Layout",
+                "config": {
+                    "children": {
+                        "slot1": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "1"
+                            }
+                        }
+                    }
+                }
+            },
+            "app2": {
+                "type": "Layout",
+                "config": {
+                    "children": {
+                        "slot1": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "1"
+                            }
+                        },
+                        "slot2": {
+                            "type": "ListMojit",
+                            "config": {
+                                "mojitID" : "2"
+                            }
+                        }
+                    }
+                }
+            },
+
+
+
+            "html_frame": {
+                "type": "HTMLFrameMojit",
+                "config": {
+                    "deploy": true,
+                    "assets": {
+                        "top": {
+                            "css": [
+                            "http://yui.yahooapis.com/3.5.1/build/cssgrids/grids-min.css",
+                            "http://yui.yahooapis.com/3.5.1/build/cssreset/reset-min.css",
+                            "/static/ListMojit/assets/index.css"
+                            ]
+                        }
+                    }
+                }
+            },
+            "firstbyte_frame": {
+                "type": "FirstByteFrameMojit",
+                "config": {
+                    "deploy": true,
+                    "assets": {
+                        "top": {
+                            "css": [
+                            "http://yui.yahooapis.com/3.5.1/build/cssgrids/grids-min.css",
+                            "http://yui.yahooapis.com/3.5.1/build/cssreset/reset-min.css",
+                            "/static/ListMojit/assets/index.css"
+                            ]
+                        }
+                    }
+                }
+            },
+            
+            "html_index": {
+                "base": "html_frame",
+                "config": {
+                    "child": {
+                        "base": "app"
+                    }
+                }
+            },
+            "firstbyte_index": {
+                "base": "firstbyte_frame",
+                "config": {
+                    "child": {
+                        "base": "app"
+                    }
+                }
+            },
+
+
+            "html_app1": {
+                "base": "html_frame",
+                "config": {
+                    "child": {
+                        "base": "app1"
+                    }
+                }
+            },
+            "html_app2": {
+                "base": "html_frame",
+                "config": {
+                    "child": {
+                        "base": "app2"
+                    }
+                }
+            },
+            "firstbyte_app1": {
+                "base": "firstbyte_frame",
+                "config": {
+                    "child": {
+                        "base": "app1"
+                    }
+                }
+            },
+            "firstbyte_app2": {
+                "base": "firstbyte_frame",
+                "config": {
+                    "child": {
+                        "base": "app2"
+                    }
+                }
+            }
+
+        }
+    },
+    {
+        "settings": [ "environment:development" ],
+        "staticHandling": {
+            "forceUpdate": true
+        },
+        "deployRuntimeClient": {
+            "useCompression": false,
+            "useDedupe": true,
+            "debug": true,
+            "yuiPrefix": "YY",
+            "mojitoPrefix": "ZZ",
+            "exclude": [
+                "log"
+            ]
+        }
+    },
+    {
+        "settings": [ "environment:prod" ],
+        "log": {
+            "server": {
+                "level": "error",
+                "yui": false
+            },
+            "client": {
+                "level": "error",
+                "yui": false
+            }
+        },
+
+
+        "shareYUIInstance": false,
+        "cacheViewTemplates": false,
+        "embedJsFilesInHtmlFrame": false,
+        "deployRuntimeClient": {
+            "useCompression": false,
+            "useDedupe": false,
+            "exclude": [
+                "log",
+                "appspecificconfig"
+            ]
+        }
+
+
+    }
+]

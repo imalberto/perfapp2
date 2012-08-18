@@ -1,0 +1,67 @@
+[{
+    "settings": [ "master" ],
+
+    "html": {
+        "path": "/html",
+        "call": "html_index.index",
+        "params": {
+            "delay": true
+        }
+    },
+
+    "html1": {
+        "path": "/html1",
+        "call": "html_app1.index",
+        "params": {
+            "delay": true
+        }
+    },
+    "html2": {
+        "path": "/html2",
+        "call": "html_app2.index",
+        "params": {
+            "delay": true
+        }
+    },
+    
+    "firstbyte": {
+        "path": "/firstbyte",
+        "call": "firstbyte_index.index",
+        "params": {
+            "delay": true,
+            "firstbyte": true
+        }
+    },
+    "firstbyte1": {
+        "path": "/firstbyte1",
+        "call": "firstbyte_app1.index",
+        "params": {
+            "delay": true,
+            "firstbyte": true
+        }
+    },
+    "firstbyte2": {
+        "path": "/firstbyte2",
+        "call": "firstbyte_app2.index",
+        "params": {
+            "delay": true,
+            "firstbyte": true
+        }
+    },
+
+    "demo": {
+        "path": "/demo",
+        "call": "firstbyte_index.index",
+        "params": {
+            "delay": true,
+            "firstbyte": true
+        }
+    },
+
+    
+    "index": {
+        "verbs": ["get"],
+        "path": "/",
+        "call": "index.index"
+    }
+}]

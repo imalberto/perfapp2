@@ -1,0 +1,927 @@
+{
+ "query": {
+  "count": 40,
+  "created": "2012-08-13T19:27:14Z",
+  "lang": "en-US",
+  "diagnostics": {
+   "publiclyCallable": "true",
+   "redirect": {
+    "from": "http://rss.news.yahoo.com/rss/topstories",
+    "status": "301",
+    "content": "http://news.yahoo.com/rss/topstories"
+   },
+   "url": {
+    "execution-start-time": "1",
+    "execution-stop-time": "9",
+    "execution-time": "8",
+    "proxy": "DEFAULT",
+    "content": "http://rss.news.yahoo.com/rss/topstories"
+   },
+   "user-time": "11",
+   "service-time": "8",
+   "build-version": "29401"
+  },
+  "results": {
+   "item": [
+    {
+     "title": "Mayo Clinic: Jackson has bipolar depression",
+     "description": "<p><a href=\"http://news.yahoo.com/mayo-clinic-jackson-bipolar-depression-183640148.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/Boq3RAhU.lmmn8xoHzTzzg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/2260421ebf562a16180f6a706700c24f.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this March 20, 2012 file photo, Rep. Jesse Jackson Jr., D-Ill. speaks in Chicago. The Mayo Clinic in Rochester, Minn., said Monday, Aug. 13, 2012, that Jackson is being treated for bipolar disorder. (AP Photo/M. Spencer Green, File)\" align=\"left\" title=\"FILE - In this March 20, 2012 file photo, Rep. Jesse Jackson Jr., D-Ill. speaks in Chicago. The Mayo Clinic in Rochester, Minn., said Monday, Aug. 13, 2012, that Jackson is being treated for bipolar disorder. (AP Photo/M. Spencer Green, File)\" border=\"0\" /></a>U.S. Rep. Jesse Jackson Jr., a Chicago Democrat who took a hushed medical leave two months ago, is being treated for bipolar disorder, the Mayo Clinic announced Monday.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/mayo-clinic-jackson-bipolar-depression-183640148.html",
+     "pubDate": "Mon, 13 Aug 2012 15:08:03 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "mayo-clinic-jackson-bipolar-depression-183640148"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l2.yimg.com/bt/api/res/1.2/Boq3RAhU.lmmn8xoHzTzzg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/2260421ebf562a16180f6a706700c24f.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/mayo-clinic-jackson-bipolar-depression-183640148.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/Boq3RAhU.lmmn8xoHzTzzg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/2260421ebf562a16180f6a706700c24f.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this March 20, 2012 file photo, Rep. Jesse Jackson Jr., D-Ill. speaks in Chicago. The Mayo Clinic in Rochester, Minn., said Monday, Aug. 13, 2012, that Jackson is being treated for bipolar disorder. (AP Photo/M. Spencer Green, File)\" align=\"left\" title=\"FILE - In this March 20, 2012 file photo, Rep. Jesse Jackson Jr., D-Ill. speaks in Chicago. The Mayo Clinic in Rochester, Minn., said Monday, Aug. 13, 2012, that Jackson is being treated for bipolar disorder. (AP Photo/M. Spencer Green, File)\" border=\"0\" /></a>U.S. Rep. Jesse Jackson Jr., a Chicago Democrat who took a hushed medical leave two months ago, is being treated for bipolar disorder, the Mayo Clinic announced Monday.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Texas A&M says shooter apprehended near campus",
+     "description": "Texas A&M University says a shooter has been taken into custody near its campus in College Station.",
+     "link": "http://news.yahoo.com/texas-m-says-shooter-apprehended-near-campus-190436802.html",
+     "pubDate": "Mon, 13 Aug 2012 15:04:21 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "texas-m-says-shooter-apprehended-near-campus-190436802"
+     }
+    },
+    {
+     "title": "Brent up on supply concern, economy worries curb rise",
+     "description": "<p><a href=\"http://news.yahoo.com/brent-crude-rises-1-supply-disruption-fears-024417616--finance.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/hecHfLow2NT9i9wY7BmK5Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T155344Z_15_CBRE8750UCY00_RTROPTP_2_ITALY.JPG\" width=\"130\" height=\"86\" alt=\"An attendant prepares to refuel a car at a petrol station in Rome\" align=\"left\" title=\"An attendant prepares to refuel a car at a petrol station in Rome\" border=\"0\" /></a>NEW YORK (Reuters) - Brent crude prices rose on Monday in choppy trade, hitting a three-month peak on concerns about North Sea supply and Middle East tensions, while fears about a slowing global economy checked gains. U.S. crude fell for a second straight session and Wall Street equities slipped after six days of gains, weighed down by data showing Japan&#039;s economy expanded in the second quarter at half the pace expected. A separate report showing Greece&#039;s economy contracted by 6.2 percent on an annual basis in the quarter also fanned concerns about economic growth. ...</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/brent-crude-rises-1-supply-disruption-fears-024417616--finance.html",
+     "pubDate": "Mon, 13 Aug 2012 15:05:43 -0400",
+     "source": {
+      "url": "http://www.reuters.com/",
+      "content": "Reuters"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "brent-crude-rises-1-supply-disruption-fears-024417616--finance"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l.yimg.com/bt/api/res/1.2/hecHfLow2NT9i9wY7BmK5Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T155344Z_15_CBRE8750UCY00_RTROPTP_2_ITALY.JPG",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/brent-crude-rises-1-supply-disruption-fears-024417616--finance.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/hecHfLow2NT9i9wY7BmK5Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T155344Z_15_CBRE8750UCY00_RTROPTP_2_ITALY.JPG\" width=\"130\" height=\"86\" alt=\"An attendant prepares to refuel a car at a petrol station in Rome\" align=\"left\" title=\"An attendant prepares to refuel a car at a petrol station in Rome\" border=\"0\" /></a>NEW YORK (Reuters) - Brent crude prices rose on Monday in choppy trade, hitting a three-month peak on concerns about North Sea supply and Middle East tensions, while fears about a slowing global economy checked gains. U.S. crude fell for a second straight session and Wall Street equities slipped after six days of gains, weighed down by data showing Japan&#039;s economy expanded in the second quarter at half the pace expected. A separate report showing Greece&#039;s economy contracted by 6.2 percent on an annual basis in the quarter also fanned concerns about economic growth. ...</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "NBC halts Olympics for promotional monkeyshines",
+     "description": "<p><a href=\"http://news.yahoo.com/nbc-halts-olympics-promotional-monkeyshines-152808586.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/BhAAzt94uNkDOOmIYTgK5A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/9f904b85a6921716180f6a7067001245.jpg\" width=\"130\" height=\"86\" alt=\"The Who guitarist Pete Townsend, left, and singer Roger Daltrey perform during the Closing Ceremony at the 2012 Summer Olympics, Monday, Aug. 13, 2012, in London. (AP Photo/Matt Slocum)\" align=\"left\" title=\"The Who guitarist Pete Townsend, left, and singer Roger Daltrey perform during the Closing Ceremony at the 2012 Summer Olympics, Monday, Aug. 13, 2012, in London. (AP Photo/Matt Slocum)\" border=\"0\" /></a>Viewers were incensed Sunday night when NBC cut away from the Olympics&#039; conclusion to air a sitcom featuring a monkey.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/nbc-halts-olympics-promotional-monkeyshines-152808586.html",
+     "pubDate": "Mon, 13 Aug 2012 15:03:27 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "nbc-halts-olympics-promotional-monkeyshines-152808586"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l.yimg.com/bt/api/res/1.2/BhAAzt94uNkDOOmIYTgK5A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/9f904b85a6921716180f6a7067001245.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/nbc-halts-olympics-promotional-monkeyshines-152808586.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/BhAAzt94uNkDOOmIYTgK5A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/9f904b85a6921716180f6a7067001245.jpg\" width=\"130\" height=\"86\" alt=\"The Who guitarist Pete Townsend, left, and singer Roger Daltrey perform during the Closing Ceremony at the 2012 Summer Olympics, Monday, Aug. 13, 2012, in London. (AP Photo/Matt Slocum)\" align=\"left\" title=\"The Who guitarist Pete Townsend, left, and singer Roger Daltrey perform during the Closing Ceremony at the 2012 Summer Olympics, Monday, Aug. 13, 2012, in London. (AP Photo/Matt Slocum)\" border=\"0\" /></a>Viewers were incensed Sunday night when NBC cut away from the Olympics&#039; conclusion to air a sitcom featuring a monkey.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "UNC reviewing possible post of Peppers' transcript",
+     "description": "North Carolina is investigating how what appears to be a transcript for former football star Julius Peppers surfaced on the university's website.",
+     "link": "http://news.yahoo.com/unc-reviewing-possible-post-peppers-transcript-171405249--spt.html",
+     "pubDate": "Mon, 13 Aug 2012 15:03:13 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "unc-reviewing-possible-post-peppers-transcript-171405249--spt"
+     }
+    },
+    {
+     "title": "Former Susan G. Komen executive has book deal",
+     "description": "<p><a href=\"http://news.yahoo.com/former-susan-g-komen-executive-book-deal-163244491.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/QLpBGPqHkQiQExTRURDcwg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/bff92716bed02816180f6a706700bde5.jpg\" width=\"130\" height=\"86\" alt=\"FILE - This Feb. 7, 2012 file photo shows Karen Handel, former ice president for public policy for Susan G. Komen for the Cure breast-cancer charity, speaking during an interview in Atlanta. Handel, the former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal. Howard Books, an imprint of Simon &amp; Schuster, announced Monday, Aug. 13, that Karen Handel&#039;s &quot;Planned Bullyhood&quot; will come out Sept. 11. (AP Photo/John Bazemore, file)\" align=\"left\" title=\"FILE - This Feb. 7, 2012 file photo shows Karen Handel, former ice president for public policy for Susan G. Komen for the Cure breast-cancer charity, speaking during an interview in Atlanta. Handel, the former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal. Howard Books, an imprint of Simon &amp; Schuster, announced Monday, Aug. 13, that Karen Handel&#039;s &quot;Planned Bullyhood&quot; will come out Sept. 11. (AP Photo/John Bazemore, file)\" border=\"0\" /></a>The former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/former-susan-g-komen-executive-book-deal-163244491.html",
+     "pubDate": "Mon, 13 Aug 2012 14:59:18 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "former-susan-g-komen-executive-book-deal-163244491"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l.yimg.com/bt/api/res/1.2/QLpBGPqHkQiQExTRURDcwg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/bff92716bed02816180f6a706700bde5.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/former-susan-g-komen-executive-book-deal-163244491.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/QLpBGPqHkQiQExTRURDcwg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/bff92716bed02816180f6a706700bde5.jpg\" width=\"130\" height=\"86\" alt=\"FILE - This Feb. 7, 2012 file photo shows Karen Handel, former ice president for public policy for Susan G. Komen for the Cure breast-cancer charity, speaking during an interview in Atlanta. Handel, the former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal. Howard Books, an imprint of Simon &amp; Schuster, announced Monday, Aug. 13, that Karen Handel&#039;s &quot;Planned Bullyhood&quot; will come out Sept. 11. (AP Photo/John Bazemore, file)\" align=\"left\" title=\"FILE - This Feb. 7, 2012 file photo shows Karen Handel, former ice president for public policy for Susan G. Komen for the Cure breast-cancer charity, speaking during an interview in Atlanta. Handel, the former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal. Howard Books, an imprint of Simon &amp; Schuster, announced Monday, Aug. 13, that Karen Handel&#039;s &quot;Planned Bullyhood&quot; will come out Sept. 11. (AP Photo/John Bazemore, file)\" border=\"0\" /></a>The former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Google cutting 4,000 jobs at Motorola unit",
+     "description": "<p><a href=\"http://news.yahoo.com/google-cutting-4-000-jobs-motorola-unit-185756764--finance.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/8PtytqaILXh6dILGyu1rSg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/014127b9be9d2716180f6a706700e44e.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this Feb. 2, 2011 file photo, a Motorola Mobility Xoom tablet is shown at Google headquarters in Mountain View, Calif. On Monday, Aug. 13, 2012, Google announced it is cutting about 4,000 jobs at its Motorola Mobility cellphone business and will close or consolidate about one-third of its 90 locations. (AP Photo/Paul Sakuma, File)\" align=\"left\" title=\"FILE - In this Feb. 2, 2011 file photo, a Motorola Mobility Xoom tablet is shown at Google headquarters in Mountain View, Calif. On Monday, Aug. 13, 2012, Google announced it is cutting about 4,000 jobs at its Motorola Mobility cellphone business and will close or consolidate about one-third of its 90 locations. (AP Photo/Paul Sakuma, File)\" border=\"0\" /></a>Google Inc. is making its largest round of layoffs ever as it announced plans to cut about 4,000 jobs at Motorola Mobility just three months after buying the struggling cellphone pioneer.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/google-cutting-4-000-jobs-motorola-unit-185756764--finance.html",
+     "pubDate": "Mon, 13 Aug 2012 14:57:56 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "google-cutting-4-000-jobs-motorola-unit-185756764--finance"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l2.yimg.com/bt/api/res/1.2/8PtytqaILXh6dILGyu1rSg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/014127b9be9d2716180f6a706700e44e.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/google-cutting-4-000-jobs-motorola-unit-185756764--finance.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/8PtytqaILXh6dILGyu1rSg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/014127b9be9d2716180f6a706700e44e.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this Feb. 2, 2011 file photo, a Motorola Mobility Xoom tablet is shown at Google headquarters in Mountain View, Calif. On Monday, Aug. 13, 2012, Google announced it is cutting about 4,000 jobs at its Motorola Mobility cellphone business and will close or consolidate about one-third of its 90 locations. (AP Photo/Paul Sakuma, File)\" align=\"left\" title=\"FILE - In this Feb. 2, 2011 file photo, a Motorola Mobility Xoom tablet is shown at Google headquarters in Mountain View, Calif. On Monday, Aug. 13, 2012, Google announced it is cutting about 4,000 jobs at its Motorola Mobility cellphone business and will close or consolidate about one-third of its 90 locations. (AP Photo/Paul Sakuma, File)\" border=\"0\" /></a>Google Inc. is making its largest round of layoffs ever as it announced plans to cut about 4,000 jobs at Motorola Mobility just three months after buying the struggling cellphone pioneer.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Google buying Frommer's travel guides from Wiley",
+     "description": "Google is buying the Frommer's brand of travel guides.",
+     "link": "http://news.yahoo.com/google-buying-frommers-travel-guides-wiley-172105905--finance.html",
+     "pubDate": "Mon, 13 Aug 2012 14:57:48 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "google-buying-frommers-travel-guides-wiley-172105905--finance"
+     }
+    },
+    {
+     "title": "Motive unclear in Pa. wedding-day homicide",
+     "description": "Why did a Pennsylvania bride allegedly stab her groom eight hours before the wedding?",
+     "link": "http://news.yahoo.com/motive-unclear-pa-wedding-day-homicide-185723690.html",
+     "pubDate": "Mon, 13 Aug 2012 14:57:23 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "motive-unclear-pa-wedding-day-homicide-185723690"
+     }
+    },
+    {
+     "title": "Afghans met Taliban leader in Pakistan jail: officials",
+     "description": "<p><a href=\"http://news.yahoo.com/afghans-met-taliban-leader-pakistan-jail-official-063022380.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/RTfHrRChD2ePl.rqHA_VeA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/AFP/photo_1344839381812-3-0.jpg\" width=\"130\" height=\"86\" alt=\"Ex-Taliban fighters display their weapons as they join Afghan government forces during a ceremony in Herat province\" align=\"left\" title=\"Ex-Taliban fighters display their weapons as they join Afghan government forces during a ceremony in Herat province\" border=\"0\" /></a>Afghan government representatives have held secret talks with a key member of the Taliban held in a Pakistani jail officials said Monday -- a move that could signal fresh hope for peace negotiations.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/afghans-met-taliban-leader-pakistan-jail-official-063022380.html",
+     "pubDate": "Mon, 13 Aug 2012 14:56:37 -0400",
+     "source": {
+      "url": "http://www.afp.com/",
+      "content": "AFP"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "afghans-met-taliban-leader-pakistan-jail-official-063022380"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l3.yimg.com/bt/api/res/1.2/RTfHrRChD2ePl.rqHA_VeA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/AFP/photo_1344839381812-3-0.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/afghans-met-taliban-leader-pakistan-jail-official-063022380.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/RTfHrRChD2ePl.rqHA_VeA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/AFP/photo_1344839381812-3-0.jpg\" width=\"130\" height=\"86\" alt=\"Ex-Taliban fighters display their weapons as they join Afghan government forces during a ceremony in Herat province\" align=\"left\" title=\"Ex-Taliban fighters display their weapons as they join Afghan government forces during a ceremony in Herat province\" border=\"0\" /></a>Afghan government representatives have held secret talks with a key member of the Taliban held in a Pakistani jail officials said Monday -- a move that could signal fresh hope for peace negotiations.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Oil boom brings scarcity of workers in small towns",
+     "description": "<p><a href=\"http://news.yahoo.com/oil-boom-brings-scarcity-workers-small-towns-183818028.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/aO.yYbVHBBlpfHdm_POErQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/600a3475bf3e2a16180f6a7067009cd0.jpg\" width=\"130\" height=\"86\" alt=\"In this Wednesday, July 18, 2012 photo, Marvin Vaughn, warden of the William S. Key Correctional Center, gestures as he answers a question during an interview in his office in Ft. Supply, Okla. Eight inmates have escaped since January, more than all of last year, and prison officials say low staffing levels are at least partially responsible. (AP Photo/Sue Ogrocki)\" align=\"left\" title=\"In this Wednesday, July 18, 2012 photo, Marvin Vaughn, warden of the William S. Key Correctional Center, gestures as he answers a question during an interview in his office in Ft. Supply, Okla. Eight inmates have escaped since January, more than all of last year, and prison officials say low staffing levels are at least partially responsible. (AP Photo/Sue Ogrocki)\" border=\"0\" /></a>The local prison is so short on guards that inmates can sometimes just walk away. A gas station barely has enough cashiers to keep up with the trucks filling the parking lot. And &quot;help wanted&quot; signs seem to hang from every restaurant and shop.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/oil-boom-brings-scarcity-workers-small-towns-183818028.html",
+     "pubDate": "Mon, 13 Aug 2012 14:52:44 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "oil-boom-brings-scarcity-workers-small-towns-183818028"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l2.yimg.com/bt/api/res/1.2/aO.yYbVHBBlpfHdm_POErQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/600a3475bf3e2a16180f6a7067009cd0.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/oil-boom-brings-scarcity-workers-small-towns-183818028.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/aO.yYbVHBBlpfHdm_POErQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/600a3475bf3e2a16180f6a7067009cd0.jpg\" width=\"130\" height=\"86\" alt=\"In this Wednesday, July 18, 2012 photo, Marvin Vaughn, warden of the William S. Key Correctional Center, gestures as he answers a question during an interview in his office in Ft. Supply, Okla. Eight inmates have escaped since January, more than all of last year, and prison officials say low staffing levels are at least partially responsible. (AP Photo/Sue Ogrocki)\" align=\"left\" title=\"In this Wednesday, July 18, 2012 photo, Marvin Vaughn, warden of the William S. Key Correctional Center, gestures as he answers a question during an interview in his office in Ft. Supply, Okla. Eight inmates have escaped since January, more than all of last year, and prison officials say low staffing levels are at least partially responsible. (AP Photo/Sue Ogrocki)\" border=\"0\" /></a>The local prison is so short on guards that inmates can sometimes just walk away. A gas station barely has enough cashiers to keep up with the trucks filling the parking lot. And &quot;help wanted&quot; signs seem to hang from every restaurant and shop.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Jets, Tebow get to work on wildcat package",
+     "description": "Shhh! The New York Jets worked on the wildcat.",
+     "link": "http://news.yahoo.com/jets-tebow-wildcat-package-144427233--nfl.html",
+     "pubDate": "Mon, 13 Aug 2012 14:52:06 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "jets-tebow-wildcat-package-144427233--nfl"
+     }
+    },
+    {
+     "title": "'Onion Field' killer dies in California prison",
+     "description": "<p><a href=\"http://news.yahoo.com/onion-field-killer-dies-california-prison-170037021.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/WDJUaX6lOPIXW86LWdorIQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/6f9e8e6dbf302a16180f6a706700811b.jpg\" width=\"130\" height=\"86\" alt=\"FILE - This undated file photo provided by California Department of Corrections and Rehabilitation shows convicted killer Gregory Powell. Powell, who was convicted of killing a Los Angeles police officer during an infamous kidnapping in 1963 that inspired Joseph Wambaughís true-life crime novel ìThe Onion Field,î has died in a California prison. He was 79. (AP Photo/California Department of Corrections and Rehabilitation, File)\" align=\"left\" title=\"FILE - This undated file photo provided by California Department of Corrections and Rehabilitation shows convicted killer Gregory Powell. Powell, who was convicted of killing a Los Angeles police officer during an infamous kidnapping in 1963 that inspired Joseph Wambaughís true-life crime novel ìThe Onion Field,î has died in a California prison. He was 79. (AP Photo/California Department of Corrections and Rehabilitation, File)\" border=\"0\" /></a>Gregory Powell, who was convicted of killing a Los Angeles police officer during an infamous kidnapping that inspired the true crime book &quot;The Onion Field,&quot; has died in prison at age 79, authorities said Monday.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/onion-field-killer-dies-california-prison-170037021.html",
+     "pubDate": "Mon, 13 Aug 2012 14:48:22 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "onion-field-killer-dies-california-prison-170037021"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l.yimg.com/bt/api/res/1.2/WDJUaX6lOPIXW86LWdorIQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/6f9e8e6dbf302a16180f6a706700811b.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/onion-field-killer-dies-california-prison-170037021.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/WDJUaX6lOPIXW86LWdorIQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/6f9e8e6dbf302a16180f6a706700811b.jpg\" width=\"130\" height=\"86\" alt=\"FILE - This undated file photo provided by California Department of Corrections and Rehabilitation shows convicted killer Gregory Powell. Powell, who was convicted of killing a Los Angeles police officer during an infamous kidnapping in 1963 that inspired Joseph Wambaughís true-life crime novel ìThe Onion Field,î has died in a California prison. He was 79. (AP Photo/California Department of Corrections and Rehabilitation, File)\" align=\"left\" title=\"FILE - This undated file photo provided by California Department of Corrections and Rehabilitation shows convicted killer Gregory Powell. Powell, who was convicted of killing a Los Angeles police officer during an infamous kidnapping in 1963 that inspired Joseph Wambaughís true-life crime novel ìThe Onion Field,î has died in a California prison. He was 79. (AP Photo/California Department of Corrections and Rehabilitation, File)\" border=\"0\" /></a>Gregory Powell, who was convicted of killing a Los Angeles police officer during an infamous kidnapping that inspired the true crime book &quot;The Onion Field,&quot; has died in prison at age 79, authorities said Monday.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Fidel Castro turns 86 behind closed doors",
+     "description": "<p><a href=\"http://news.yahoo.com/fidel-castro-turns-86-behind-closed-doors-184710025.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/3IirmSktp5QdNY.7EVSc7w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/541c2c89bbb41916180f6a706700df60.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this Feb. 10, 2012 file photo released by the state media website Cubadebate, Fidel Castro attends a meeting with intellectuals and writers at the International Book Fair in Havana, Cuba. Castro turns 86 on Monday, Aug. 13, 2012. (AP Photo/Cubadebate, Roberto Chile, File)\" align=\"left\" title=\"FILE - In this Feb. 10, 2012 file photo released by the state media website Cubadebate, Fidel Castro attends a meeting with intellectuals and writers at the International Book Fair in Havana, Cuba. Castro turns 86 on Monday, Aug. 13, 2012. (AP Photo/Cubadebate, Roberto Chile, File)\" border=\"0\" /></a>Cuba marked Fidel Castro&#039;s 86th birthday on Monday with congratulatory messages in state media but no planned appearance by the retired leader, who has faded from public view.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/fidel-castro-turns-86-behind-closed-doors-184710025.html",
+     "pubDate": "Mon, 13 Aug 2012 14:47:10 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "fidel-castro-turns-86-behind-closed-doors-184710025"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l3.yimg.com/bt/api/res/1.2/3IirmSktp5QdNY.7EVSc7w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/541c2c89bbb41916180f6a706700df60.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/fidel-castro-turns-86-behind-closed-doors-184710025.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/3IirmSktp5QdNY.7EVSc7w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/541c2c89bbb41916180f6a706700df60.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this Feb. 10, 2012 file photo released by the state media website Cubadebate, Fidel Castro attends a meeting with intellectuals and writers at the International Book Fair in Havana, Cuba. Castro turns 86 on Monday, Aug. 13, 2012. (AP Photo/Cubadebate, Roberto Chile, File)\" align=\"left\" title=\"FILE - In this Feb. 10, 2012 file photo released by the state media website Cubadebate, Fidel Castro attends a meeting with intellectuals and writers at the International Book Fair in Havana, Cuba. Castro turns 86 on Monday, Aug. 13, 2012. (AP Photo/Cubadebate, Roberto Chile, File)\" border=\"0\" /></a>Cuba marked Fidel Castro&#039;s 86th birthday on Monday with congratulatory messages in state media but no planned appearance by the retired leader, who has faded from public view.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Egypt's Morsi empowered by army shakeup: media",
+     "description": "<p><a href=\"http://news.yahoo.com/army-chief-retired-surprise-egypt-shake-033343862.html\"><img src=\"http://l1.yimg.com/bt/api/res/1.2/W0RpiH9sTFeQyhTMjaOv.A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/afp.com/photo_1344876731587-4-0.jpg\" width=\"130\" height=\"86\" alt=\"President Mohamed Morsi\" align=\"left\" title=\"President Mohamed Morsi\" border=\"0\" /></a>Egypt&#039;s Islamist President Mohamed Morsi has emerged empowered by a &quot;revolutionary&quot; decision to dismiss his powerful defence minister and curb the military&#039;s sweeping powers, media said Monday.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/army-chief-retired-surprise-egypt-shake-033343862.html",
+     "pubDate": "Mon, 13 Aug 2012 14:46:38 -0400",
+     "source": {
+      "url": "http://www.afp.com/",
+      "content": "AFP"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "army-chief-retired-surprise-egypt-shake-033343862"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l1.yimg.com/bt/api/res/1.2/W0RpiH9sTFeQyhTMjaOv.A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/afp.com/photo_1344876731587-4-0.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/army-chief-retired-surprise-egypt-shake-033343862.html\"><img src=\"http://l1.yimg.com/bt/api/res/1.2/W0RpiH9sTFeQyhTMjaOv.A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/afp.com/photo_1344876731587-4-0.jpg\" width=\"130\" height=\"86\" alt=\"President Mohamed Morsi\" align=\"left\" title=\"President Mohamed Morsi\" border=\"0\" /></a>Egypt&#039;s Islamist President Mohamed Morsi has emerged empowered by a &quot;revolutionary&quot; decision to dismiss his powerful defence minister and curb the military&#039;s sweeping powers, media said Monday.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Multiple people, officers, shot near Texas A&M University",
+     "description": "(Reuters) - Multiple people, including law enforcement officers, were shot on Monday when a gunman opened fire near Texas A&M University, police in College Station, Texas, said. \"We have multiple people who have been shot,\" police spokeswoman Rhonda Seaton told CNN, adding that law enforcement officers were among those. Police had the shooting suspect in custody, according to the university's website. The extent of victims' injuries was not immediately clear. ...",
+     "link": "http://news.yahoo.com/shooting-breaks-near-texas-m-university-casualties-reported-182626073.html",
+     "pubDate": "Mon, 13 Aug 2012 14:44:06 -0400",
+     "source": {
+      "url": "http://www.reuters.com/",
+      "content": "Reuters"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "shooting-breaks-near-texas-m-university-casualties-reported-182626073"
+     }
+    },
+    {
+     "title": "Russia slams new US sanctions on Iran",
+     "description": "Russia's Foreign Ministry has harshly criticized new U.S. sanctions on Iran, calling them \"undisguised blackmail\" and warning that relations between Washington and Moscow will suffer if Russian companies are affected.",
+     "link": "http://news.yahoo.com/russia-slams-us-sanctions-iran-184328355.html",
+     "pubDate": "Mon, 13 Aug 2012 14:43:28 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "russia-slams-us-sanctions-iran-184328355"
+     }
+    },
+    {
+     "title": "3 found dead in burning car in Maine parking lot",
+     "description": "<p><a href=\"http://news.yahoo.com/3-found-dead-burning-car-maine-parking-lot-131948808.html\"><img src=\"http://l1.yimg.com/bt/api/res/1.2/sEMkwBTNzMqP_K21I.mn1Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/7f351af6be722616180f6a706700101a.jpg\" width=\"130\" height=\"86\" alt=\"In this still photo from video provided by WABI-TV in Bangor, Maine, a vehicle that burned before dawn Monday, Aug. 13, 2012, sits parked off Target Industrial Circle in Bangor. After the fire was extinguished, three bodies were found inside the parked car. (AP Photo/WABI-TV, Mark Rediker) MANDATORY CREDIT\" align=\"left\" title=\"In this still photo from video provided by WABI-TV in Bangor, Maine, a vehicle that burned before dawn Monday, Aug. 13, 2012, sits parked off Target Industrial Circle in Bangor. After the fire was extinguished, three bodies were found inside the parked car. (AP Photo/WABI-TV, Mark Rediker) MANDATORY CREDIT\" border=\"0\" /></a>Surveillance videos from a pair of businesses showed headlights from a couple of vehicles passing minutes before a car burned with three people inside early Monday, and one person was seen running away from the scene.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/3-found-dead-burning-car-maine-parking-lot-131948808.html",
+     "pubDate": "Mon, 13 Aug 2012 15:14:41 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "3-found-dead-burning-car-maine-parking-lot-131948808"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l1.yimg.com/bt/api/res/1.2/sEMkwBTNzMqP_K21I.mn1Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/7f351af6be722616180f6a706700101a.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/3-found-dead-burning-car-maine-parking-lot-131948808.html\"><img src=\"http://l1.yimg.com/bt/api/res/1.2/sEMkwBTNzMqP_K21I.mn1Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/7f351af6be722616180f6a706700101a.jpg\" width=\"130\" height=\"86\" alt=\"In this still photo from video provided by WABI-TV in Bangor, Maine, a vehicle that burned before dawn Monday, Aug. 13, 2012, sits parked off Target Industrial Circle in Bangor. After the fire was extinguished, three bodies were found inside the parked car. (AP Photo/WABI-TV, Mark Rediker) MANDATORY CREDIT\" align=\"left\" title=\"In this still photo from video provided by WABI-TV in Bangor, Maine, a vehicle that burned before dawn Monday, Aug. 13, 2012, sits parked off Target Industrial Circle in Bangor. After the fire was extinguished, three bodies were found inside the parked car. (AP Photo/WABI-TV, Mark Rediker) MANDATORY CREDIT\" border=\"0\" /></a>Surveillance videos from a pair of businesses showed headlights from a couple of vehicles passing minutes before a car burned with three people inside early Monday, and one person was seen running away from the scene.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Boehner gives high marks to Romney VP pick Ryan",
+     "description": "House Speaker John Boehner (BAY'-nur) is comparing Republican Mitt Romney's choice of a running mate to John Kennedy, the Massachusetts Democrat who won the White House in 1960.",
+     "link": "http://news.yahoo.com/boehner-gives-high-marks-romney-vp-pick-ryan-183725815.html",
+     "pubDate": "Mon, 13 Aug 2012 14:37:25 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "boehner-gives-high-marks-romney-vp-pick-ryan-183725815"
+     }
+    },
+    {
+     "title": "Ryan's Medicare plan would be tricky to pull off",
+     "description": "<p><a href=\"http://news.yahoo.com/ryans-medicare-plan-tricky-pull-off-161507280.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/GYPLBF0iXaUXc3Rfk8t8qA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/35f9b8eabb9d1916180f6a706700ca90.jpg\" width=\"130\" height=\"86\" alt=\"Republican vice presidential candidate Rep. Paul Ryan R-Wis., reacts to audience applause during a campaign event at the Waukesha county expo center, Sunday, Aug. 12, 2012 in Waukesha, Wis. (AP Photo/Mary Altaffer)\" align=\"left\" title=\"Republican vice presidential candidate Rep. Paul Ryan R-Wis., reacts to audience applause during a campaign event at the Waukesha county expo center, Sunday, Aug. 12, 2012 in Waukesha, Wis. (AP Photo/Mary Altaffer)\" border=\"0\" /></a>The idea behind Paul Ryan&#039;s Medicare plan is to slow growing costs and keep the program more affordable for the long haul.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/ryans-medicare-plan-tricky-pull-off-161507280.html",
+     "pubDate": "Mon, 13 Aug 2012 14:33:45 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "ryans-medicare-plan-tricky-pull-off-161507280"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l3.yimg.com/bt/api/res/1.2/GYPLBF0iXaUXc3Rfk8t8qA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/35f9b8eabb9d1916180f6a706700ca90.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/ryans-medicare-plan-tricky-pull-off-161507280.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/GYPLBF0iXaUXc3Rfk8t8qA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/35f9b8eabb9d1916180f6a706700ca90.jpg\" width=\"130\" height=\"86\" alt=\"Republican vice presidential candidate Rep. Paul Ryan R-Wis., reacts to audience applause during a campaign event at the Waukesha county expo center, Sunday, Aug. 12, 2012 in Waukesha, Wis. (AP Photo/Mary Altaffer)\" align=\"left\" title=\"Republican vice presidential candidate Rep. Paul Ryan R-Wis., reacts to audience applause during a campaign event at the Waukesha county expo center, Sunday, Aug. 12, 2012 in Waukesha, Wis. (AP Photo/Mary Altaffer)\" border=\"0\" /></a>The idea behind Paul Ryan&#039;s Medicare plan is to slow growing costs and keep the program more affordable for the long haul.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Column: London done, so prepare for circus in Rio",
+     "description": "IOC President Jacques Rogge still can't figure out what to call Usain Bolt, so here's hoping he gets another Olympics to sort it out. There's just something about his latest effort —\"active performance legend\" — that doesn't rise to a gold medal level.",
+     "link": "http://news.yahoo.com/column-london-done-prepare-circus-rio-183322687--oly.html",
+     "pubDate": "Mon, 13 Aug 2012 14:33:22 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "column-london-done-prepare-circus-rio-183322687--oly"
+     }
+    },
+    {
+     "title": "Former NYC schools chief touts News Corp. venture",
+     "description": "<p><a href=\"http://news.yahoo.com/former-nyc-schools-chief-touts-news-corp-venture-162642884.html\"><img src=\"http://l1.yimg.com/bt/api/res/1.2/OSysu4CXjvyw7zFPHtyWaA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/051d8b3fbf452a16180f6a706700e214.jpg\" width=\"130\" height=\"86\" alt=\"In this July 31, 2012 photo, Joel Klein, CEO of Amplify, speaks during an interview in his New York office. Klein, former New York City schools chief, left to run News Corp.&#039;s education division but spent much of the past year defending boss Rupert Murdoch in the phone-hacking scandal that has rocked the British media. The investigation into the use of information taken from stolen phones is continuing, but Klein is back in New York to launch Amplify, News Corp.&#039;s entry into the burgeoning field of digital learning. (AP Photo/Richard Drew)\" align=\"left\" title=\"In this July 31, 2012 photo, Joel Klein, CEO of Amplify, speaks during an interview in his New York office. Klein, former New York City schools chief, left to run News Corp.&#039;s education division but spent much of the past year defending boss Rupert Murdoch in the phone-hacking scandal that has rocked the British media. The investigation into the use of information taken from stolen phones is continuing, but Klein is back in New York to launch Amplify, News Corp.&#039;s entry into the burgeoning field of digital learning. (AP Photo/Richard Drew)\" border=\"0\" /></a>Former New York City schools chief Joel Klein left to run News Corp.&#039;s education division but spent much of the past year defending boss Rupert Murdoch in the phone-hacking scandal that has rocked the British media.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/former-nyc-schools-chief-touts-news-corp-venture-162642884.html",
+     "pubDate": "Mon, 13 Aug 2012 14:33:09 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "former-nyc-schools-chief-touts-news-corp-venture-162642884"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l1.yimg.com/bt/api/res/1.2/OSysu4CXjvyw7zFPHtyWaA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/051d8b3fbf452a16180f6a706700e214.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/former-nyc-schools-chief-touts-news-corp-venture-162642884.html\"><img src=\"http://l1.yimg.com/bt/api/res/1.2/OSysu4CXjvyw7zFPHtyWaA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/051d8b3fbf452a16180f6a706700e214.jpg\" width=\"130\" height=\"86\" alt=\"In this July 31, 2012 photo, Joel Klein, CEO of Amplify, speaks during an interview in his New York office. Klein, former New York City schools chief, left to run News Corp.&#039;s education division but spent much of the past year defending boss Rupert Murdoch in the phone-hacking scandal that has rocked the British media. The investigation into the use of information taken from stolen phones is continuing, but Klein is back in New York to launch Amplify, News Corp.&#039;s entry into the burgeoning field of digital learning. (AP Photo/Richard Drew)\" align=\"left\" title=\"In this July 31, 2012 photo, Joel Klein, CEO of Amplify, speaks during an interview in his New York office. Klein, former New York City schools chief, left to run News Corp.&#039;s education division but spent much of the past year defending boss Rupert Murdoch in the phone-hacking scandal that has rocked the British media. The investigation into the use of information taken from stolen phones is continuing, but Klein is back in New York to launch Amplify, News Corp.&#039;s entry into the burgeoning field of digital learning. (AP Photo/Richard Drew)\" border=\"0\" /></a>Former New York City schools chief Joel Klein left to run News Corp.&#039;s education division but spent much of the past year defending boss Rupert Murdoch in the phone-hacking scandal that has rocked the British media.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Comparisons only natural with McIlroy and Woods",
+     "description": "<p><a href=\"http://news.yahoo.com/comparisons-only-natural-mcilroy-woods-170843267--golf.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/dDdufukx7LfiFhzsCuleQw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3B4b2ZmPTUwO3B5b2ZmPTA7cT04NTt3PTEzMA--/http://media.zenfs.com/en_us/News/ap_webfeeds/2f9b8c4da6991716180f6a7067001261.jpg\" width=\"130\" height=\"86\" alt=\"Rory McIlroy of Northern Ireland reacts as his putt drops for a birdie to win the final round of the PGA Championship golf tournament on the Ocean Course of the Kiawah Island Golf Resort in Kiawah Island, S.C., Sunday, Aug. 12, 2012. (AP Photo/Lynne Sladky)\" align=\"left\" title=\"Rory McIlroy of Northern Ireland reacts as his putt drops for a birdie to win the final round of the PGA Championship golf tournament on the Ocean Course of the Kiawah Island Golf Resort in Kiawah Island, S.C., Sunday, Aug. 12, 2012. (AP Photo/Lynne Sladky)\" border=\"0\" /></a>The comparisons are inevitable. The incredible skill, the youth, even the red shirt on Sunday.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/comparisons-only-natural-mcilroy-woods-170843267--golf.html",
+     "pubDate": "Mon, 13 Aug 2012 14:32:23 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "comparisons-only-natural-mcilroy-woods-170843267--golf"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l2.yimg.com/bt/api/res/1.2/dDdufukx7LfiFhzsCuleQw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3B4b2ZmPTUwO3B5b2ZmPTA7cT04NTt3PTEzMA--/http://media.zenfs.com/en_us/News/ap_webfeeds/2f9b8c4da6991716180f6a7067001261.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/comparisons-only-natural-mcilroy-woods-170843267--golf.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/dDdufukx7LfiFhzsCuleQw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3B4b2ZmPTUwO3B5b2ZmPTA7cT04NTt3PTEzMA--/http://media.zenfs.com/en_us/News/ap_webfeeds/2f9b8c4da6991716180f6a7067001261.jpg\" width=\"130\" height=\"86\" alt=\"Rory McIlroy of Northern Ireland reacts as his putt drops for a birdie to win the final round of the PGA Championship golf tournament on the Ocean Course of the Kiawah Island Golf Resort in Kiawah Island, S.C., Sunday, Aug. 12, 2012. (AP Photo/Lynne Sladky)\" align=\"left\" title=\"Rory McIlroy of Northern Ireland reacts as his putt drops for a birdie to win the final round of the PGA Championship golf tournament on the Ocean Course of the Kiawah Island Golf Resort in Kiawah Island, S.C., Sunday, Aug. 12, 2012. (AP Photo/Lynne Sladky)\" border=\"0\" /></a>The comparisons are inevitable. The incredible skill, the youth, even the red shirt on Sunday.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Texas A&M: Active shooter on campus apprehended",
+     "description": "Texas A&M University says a shooter has been taken into custody near its campus in College Station.",
+     "link": "http://news.yahoo.com/texas-m-active-shooter-campus-apprehended-181814814.html",
+     "pubDate": "Mon, 13 Aug 2012 14:31:15 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "texas-m-active-shooter-campus-apprehended-181814814"
+     }
+    },
+    {
+     "title": "House files suit against Holder over gov't records",
+     "description": "<p><a href=\"http://news.yahoo.com/house-files-suit-against-holder-over-govt-records-162414709.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/6pmFi7ARKYgY1PpJw19zNQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/a5f24a2dbeea2816180f6a706700bf24.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this July 26, 2012 file photo, Attorney General Eric Holder speaks in the Cabinet Room of the White House in Washington. The Republican-run House has asked a federal court to enforce a subpoena against Attorney General Eric Holder. The subpoena demands that Holder produce records related to a bungled gun-tracking operation known as Operation Fast and Furious. The failure of Holder and House Republicans to work out a deal on the documents led to a vote in June that held the attorney general in contempt of Congress. (AP Photo/Susan Walsh, File)\" align=\"left\" title=\"FILE - In this July 26, 2012 file photo, Attorney General Eric Holder speaks in the Cabinet Room of the White House in Washington. The Republican-run House has asked a federal court to enforce a subpoena against Attorney General Eric Holder. The subpoena demands that Holder produce records related to a bungled gun-tracking operation known as Operation Fast and Furious. The failure of Holder and House Republicans to work out a deal on the documents led to a vote in June that held the attorney general in contempt of Congress. (AP Photo/Susan Walsh, File)\" border=\"0\" /></a>The Republican-run House on Monday asked a federal court to enforce a subpoena against Attorney General Eric Holder, demanding that he produce records on a bungled gun-tracking operation known as Operation Fast and Furious.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/house-files-suit-against-holder-over-govt-records-162414709.html",
+     "pubDate": "Mon, 13 Aug 2012 14:28:11 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "house-files-suit-against-holder-over-govt-records-162414709"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l.yimg.com/bt/api/res/1.2/6pmFi7ARKYgY1PpJw19zNQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/a5f24a2dbeea2816180f6a706700bf24.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/house-files-suit-against-holder-over-govt-records-162414709.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/6pmFi7ARKYgY1PpJw19zNQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/a5f24a2dbeea2816180f6a706700bf24.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this July 26, 2012 file photo, Attorney General Eric Holder speaks in the Cabinet Room of the White House in Washington. The Republican-run House has asked a federal court to enforce a subpoena against Attorney General Eric Holder. The subpoena demands that Holder produce records related to a bungled gun-tracking operation known as Operation Fast and Furious. The failure of Holder and House Republicans to work out a deal on the documents led to a vote in June that held the attorney general in contempt of Congress. (AP Photo/Susan Walsh, File)\" align=\"left\" title=\"FILE - In this July 26, 2012 file photo, Attorney General Eric Holder speaks in the Cabinet Room of the White House in Washington. The Republican-run House has asked a federal court to enforce a subpoena against Attorney General Eric Holder. The subpoena demands that Holder produce records related to a bungled gun-tracking operation known as Operation Fast and Furious. The failure of Holder and House Republicans to work out a deal on the documents led to a vote in June that held the attorney general in contempt of Congress. (AP Photo/Susan Walsh, File)\" border=\"0\" /></a>The Republican-run House on Monday asked a federal court to enforce a subpoena against Attorney General Eric Holder, demanding that he produce records on a bungled gun-tracking operation known as Operation Fast and Furious.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Wife of Md. man held in Pakistan urges release",
+     "description": "<p><a href=\"http://news.yahoo.com/wife-md-man-held-pakistan-urges-release-182603422.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/P54vqfytsLFXMUehTd.AQg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3B4b2ZmPTUwO3B5b2ZmPTA7cT04NTt3PTEzMA--/http://media.zenfs.com/en_us/News/ap_webfeeds/d6c2c715bd1a2016180f6a7067004d69.jpg\" width=\"130\" height=\"86\" alt=\"FILE - This Jan. 6, 2009 file image provided by Mike Redwood shows Warren Weinstein in England. Weinstein was abducted by gunmen early Saturday, Aug. 13, 2011, from his home in Lahore, Pakistan. Elaine Weinstein, Warren&#039;s wife, is pleading for her husbandís safe return on the one-year anniversary of his kidnapping. Elaine Weinstein says in a statement issued Monday, Aug. 13, 2012, that her husband is in poor health and is missed by grandchildren who ask for him every day. (AP Photo/Mike Redwood, File)\" align=\"left\" title=\"FILE - This Jan. 6, 2009 file image provided by Mike Redwood shows Warren Weinstein in England. Weinstein was abducted by gunmen early Saturday, Aug. 13, 2011, from his home in Lahore, Pakistan. Elaine Weinstein, Warren&#039;s wife, is pleading for her husbandís safe return on the one-year anniversary of his kidnapping. Elaine Weinstein says in a statement issued Monday, Aug. 13, 2012, that her husband is in poor health and is missed by grandchildren who ask for him every day. (AP Photo/Mike Redwood, File)\" border=\"0\" /></a>The wife of a Maryland man abducted in Pakistan is pleading for his safe return on the one-year anniversary of his kidnapping, saying her husband is in poor health and is missed by grandchildren who ask for him every day.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/wife-md-man-held-pakistan-urges-release-182603422.html",
+     "pubDate": "Mon, 13 Aug 2012 14:26:03 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "wife-md-man-held-pakistan-urges-release-182603422"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l2.yimg.com/bt/api/res/1.2/P54vqfytsLFXMUehTd.AQg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3B4b2ZmPTUwO3B5b2ZmPTA7cT04NTt3PTEzMA--/http://media.zenfs.com/en_us/News/ap_webfeeds/d6c2c715bd1a2016180f6a7067004d69.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/wife-md-man-held-pakistan-urges-release-182603422.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/P54vqfytsLFXMUehTd.AQg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3B4b2ZmPTUwO3B5b2ZmPTA7cT04NTt3PTEzMA--/http://media.zenfs.com/en_us/News/ap_webfeeds/d6c2c715bd1a2016180f6a7067004d69.jpg\" width=\"130\" height=\"86\" alt=\"FILE - This Jan. 6, 2009 file image provided by Mike Redwood shows Warren Weinstein in England. Weinstein was abducted by gunmen early Saturday, Aug. 13, 2011, from his home in Lahore, Pakistan. Elaine Weinstein, Warren&#039;s wife, is pleading for her husbandís safe return on the one-year anniversary of his kidnapping. Elaine Weinstein says in a statement issued Monday, Aug. 13, 2012, that her husband is in poor health and is missed by grandchildren who ask for him every day. (AP Photo/Mike Redwood, File)\" align=\"left\" title=\"FILE - This Jan. 6, 2009 file image provided by Mike Redwood shows Warren Weinstein in England. Weinstein was abducted by gunmen early Saturday, Aug. 13, 2011, from his home in Lahore, Pakistan. Elaine Weinstein, Warren&#039;s wife, is pleading for her husbandís safe return on the one-year anniversary of his kidnapping. Elaine Weinstein says in a statement issued Monday, Aug. 13, 2012, that her husband is in poor health and is missed by grandchildren who ask for him every day. (AP Photo/Mike Redwood, File)\" border=\"0\" /></a>The wife of a Maryland man abducted in Pakistan is pleading for his safe return on the one-year anniversary of his kidnapping, saying her husband is in poor health and is missed by grandchildren who ask for him every day.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Obama, Biden link GOP rivals to Congress",
+     "description": "<p><a href=\"http://news.yahoo.com/obama-biden-gop-rivals-congress-182154113.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/90MDIujq1BwMQFpxM6Nk3Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/ba438f4fbf2d2916180f6a70670025b5.jpg\" width=\"130\" height=\"86\" alt=\"President Barack Obama speaks during a campaign stop in Council Bluffs, Iowa, Monday, Aug. 13, 2012. (AP Photo/Nati Harnik)\" align=\"left\" title=\"President Barack Obama speaks during a campaign stop in Council Bluffs, Iowa, Monday, Aug. 13, 2012. (AP Photo/Nati Harnik)\" border=\"0\" /></a>President Barack Obama and Joe Biden moved quickly Monday to link GOP rivals Mitt Romney and Paul Ryan to House Republicans who Democrats blame for causing gridlock in Washington and pressing policies to protect the wealthy.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/obama-biden-gop-rivals-congress-182154113.html",
+     "pubDate": "Mon, 13 Aug 2012 15:15:57 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "obama-biden-gop-rivals-congress-182154113"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l3.yimg.com/bt/api/res/1.2/90MDIujq1BwMQFpxM6Nk3Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/ba438f4fbf2d2916180f6a70670025b5.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/obama-biden-gop-rivals-congress-182154113.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/90MDIujq1BwMQFpxM6Nk3Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/ba438f4fbf2d2916180f6a70670025b5.jpg\" width=\"130\" height=\"86\" alt=\"President Barack Obama speaks during a campaign stop in Council Bluffs, Iowa, Monday, Aug. 13, 2012. (AP Photo/Nati Harnik)\" align=\"left\" title=\"President Barack Obama speaks during a campaign stop in Council Bluffs, Iowa, Monday, Aug. 13, 2012. (AP Photo/Nati Harnik)\" border=\"0\" /></a>President Barack Obama and Joe Biden moved quickly Monday to link GOP rivals Mitt Romney and Paul Ryan to House Republicans who Democrats blame for causing gridlock in Washington and pressing policies to protect the wealthy.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "BBC: Olympic closing ceremony draws 26.3M viewers",
+     "description": "The BBC said Monday that its live coverage of the Olympic closing ceremony was watched by 26.3 million people in the U.K., or more than 80 percent of the country's audience share.",
+     "link": "http://news.yahoo.com/bbc-olympic-closing-ceremony-draws-26-3m-viewers-105654257--finance.html",
+     "pubDate": "Mon, 13 Aug 2012 14:18:44 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "bbc-olympic-closing-ceremony-draws-26-3m-viewers-105654257--finance"
+     }
+    },
+    {
+     "title": "Ford India recalls 111,000 cars over fault fears",
+     "description": "<p><a href=\"http://news.yahoo.com/ford-india-recalls-111-000-cars-over-fault-155006066.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/15rnBMt6uLTTm26f5V3ybw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/AFP/photo_1344872966893-1-0.jpg\" width=\"130\" height=\"86\" alt=\"Ford India said it wanted to inspect certain batches of its top-selling Figo hatchback and Classic sedan models\" align=\"left\" title=\"Ford India said it wanted to inspect certain batches of its top-selling Figo hatchback and Classic sedan models\" border=\"0\" /></a>US auto giant Ford&#039;s India unit said on Monday it was recalling at least 111,000 vehicles to check for potentially faulty parts that could cause breakdowns or fires.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/ford-india-recalls-111-000-cars-over-fault-155006066.html",
+     "pubDate": "Mon, 13 Aug 2012 14:15:40 -0400",
+     "source": {
+      "url": "http://www.afp.com/",
+      "content": "AFP"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "ford-india-recalls-111-000-cars-over-fault-155006066"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l3.yimg.com/bt/api/res/1.2/15rnBMt6uLTTm26f5V3ybw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/AFP/photo_1344872966893-1-0.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/ford-india-recalls-111-000-cars-over-fault-155006066.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/15rnBMt6uLTTm26f5V3ybw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/AFP/photo_1344872966893-1-0.jpg\" width=\"130\" height=\"86\" alt=\"Ford India said it wanted to inspect certain batches of its top-selling Figo hatchback and Classic sedan models\" align=\"left\" title=\"Ford India said it wanted to inspect certain batches of its top-selling Figo hatchback and Classic sedan models\" border=\"0\" /></a>US auto giant Ford&#039;s India unit said on Monday it was recalling at least 111,000 vehicles to check for potentially faulty parts that could cause breakdowns or fires.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "House Republicans sue Attorney General Holder over gun probe",
+     "description": "<p><a href=\"http://news.yahoo.com/house-republican-says-holder-lawsuit-filed-monday-132915237.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/t5q1lv3ztwPHlvqBrdULnA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T172952Z_3_CBRE87C11H800_RTROPTP_2_USA-WISCONSIN-SHOOTING.JPG\" width=\"130\" height=\"86\" alt=\"United States Attorney General Eric Holder speaks during the wake and visitation service for victims of last Sunday&#039;s attack at a Sikh temple, in Oak Creek\" align=\"left\" title=\"United States Attorney General Eric Holder speaks during the wake and visitation service for victims of last Sunday&#039;s attack at a Sikh temple, in Oak Creek\" border=\"0\" /></a>WASHINGTON (Reuters) - House Republicans filed a federal lawsuit on Monday against Attorney General Eric Holder, the country&#039;s top law enforcement official, seeking to obtain documents on a botched operation to link Arizona gun sales to Mexican drug cartels. The suit likely means the debate over the anti-gun-trafficking operation nicknamed &quot;Fast and Furious&quot; will go on for months, lasting through the U.S. elections on November 6 when Democratic President Barack Obama is likely to face Republican challenger Mitt Romney. ...</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/house-republican-says-holder-lawsuit-filed-monday-132915237.html",
+     "pubDate": "Mon, 13 Aug 2012 14:05:48 -0400",
+     "source": {
+      "url": "http://www.reuters.com/",
+      "content": "Reuters"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "house-republican-says-holder-lawsuit-filed-monday-132915237"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l2.yimg.com/bt/api/res/1.2/t5q1lv3ztwPHlvqBrdULnA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T172952Z_3_CBRE87C11H800_RTROPTP_2_USA-WISCONSIN-SHOOTING.JPG",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/house-republican-says-holder-lawsuit-filed-monday-132915237.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/t5q1lv3ztwPHlvqBrdULnA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T172952Z_3_CBRE87C11H800_RTROPTP_2_USA-WISCONSIN-SHOOTING.JPG\" width=\"130\" height=\"86\" alt=\"United States Attorney General Eric Holder speaks during the wake and visitation service for victims of last Sunday&#039;s attack at a Sikh temple, in Oak Creek\" align=\"left\" title=\"United States Attorney General Eric Holder speaks during the wake and visitation service for victims of last Sunday&#039;s attack at a Sikh temple, in Oak Creek\" border=\"0\" /></a>WASHINGTON (Reuters) - House Republicans filed a federal lawsuit on Monday against Attorney General Eric Holder, the country&#039;s top law enforcement official, seeking to obtain documents on a botched operation to link Arizona gun sales to Mexican drug cartels. The suit likely means the debate over the anti-gun-trafficking operation nicknamed &quot;Fast and Furious&quot; will go on for months, lasting through the U.S. elections on November 6 when Democratic President Barack Obama is likely to face Republican challenger Mitt Romney. ...</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Biden calls Ryan policies 'irresponsible'",
+     "description": "Vice President Joe Biden says Republicans Mitt Romney and Paul Ryan are decent men, but that they have fundamentally different values from him and President Barack Obama.",
+     "link": "http://news.yahoo.com/biden-calls-ryan-policies-irresponsible-180445063.html",
+     "pubDate": "Mon, 13 Aug 2012 14:04:52 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "biden-calls-ryan-policies-irresponsible-180445063"
+     }
+    },
+    {
+     "title": "Iran government criticized over earthquake response",
+     "description": "<p><a href=\"http://news.yahoo.com/iran-government-criticized-over-earthquake-response-150517687.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/sn4LUSDe8WOtNiyQdhTPKw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T150517Z_1_CBRE87C15X200_RTROPTP_2_IRAN-EARTHQUAKE.JPG\" width=\"130\" height=\"86\" alt=\"A doorway is seen near collapsed rubble in the earthquake-stricken village of Varzaqan near Ahar, in East Azerbaijan province,\" align=\"left\" title=\"A doorway is seen near collapsed rubble in the earthquake-stricken village of Varzaqan near Ahar, in East Azerbaijan province,\" border=\"0\" /></a>DUBAI (Reuters) - Iran&#039;s government faced criticism on Monday over its response to two earthquakes that killed 306 people, with complaints of a lack of tents and about President Mahmoud Ahmadinejad&#039;s decision to go ahead with an overseas trip. Although officials announced on Sunday, less than 24 hours after disaster struck, that search and rescue operations had finished and all survivors had been freed from the rubble, some locals expressed disbelief that authorities could have reached the most remote villages so soon. &quot;I know the area well. ...</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/iran-government-criticized-over-earthquake-response-150517687.html",
+     "pubDate": "Mon, 13 Aug 2012 13:53:38 -0400",
+     "source": {
+      "url": "http://www.reuters.com/",
+      "content": "Reuters"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "iran-government-criticized-over-earthquake-response-150517687"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l2.yimg.com/bt/api/res/1.2/sn4LUSDe8WOtNiyQdhTPKw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T150517Z_1_CBRE87C15X200_RTROPTP_2_IRAN-EARTHQUAKE.JPG",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/iran-government-criticized-over-earthquake-response-150517687.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/sn4LUSDe8WOtNiyQdhTPKw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T150517Z_1_CBRE87C15X200_RTROPTP_2_IRAN-EARTHQUAKE.JPG\" width=\"130\" height=\"86\" alt=\"A doorway is seen near collapsed rubble in the earthquake-stricken village of Varzaqan near Ahar, in East Azerbaijan province,\" align=\"left\" title=\"A doorway is seen near collapsed rubble in the earthquake-stricken village of Varzaqan near Ahar, in East Azerbaijan province,\" border=\"0\" /></a>DUBAI (Reuters) - Iran&#039;s government faced criticism on Monday over its response to two earthquakes that killed 306 people, with complaints of a lack of tents and about President Mahmoud Ahmadinejad&#039;s decision to go ahead with an overseas trip. Although officials announced on Sunday, less than 24 hours after disaster struck, that search and rescue operations had finished and all survivors had been freed from the rubble, some locals expressed disbelief that authorities could have reached the most remote villages so soon. &quot;I know the area well. ...</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Pro-Romney group spends $10M on new ad campaign",
+     "description": "<p><a href=\"http://news.yahoo.com/pro-romney-group-spends-10m-ad-campaign-130256830.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/zg0TS_OlB4MrEre5haWe7w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/0956479abe8a2616180f6a7067007ab4.jpg\" width=\"130\" height=\"86\" alt=\"A supporter of Republican presidential candidate, former Massachusetts Gov. Mitt Romney holds his book during a campaign event at Flagler college, Monday, Aug. 13, 2012, in St. Augustine, Fla. (AP Photo/Mary Altaffer)\" align=\"left\" title=\"A supporter of Republican presidential candidate, former Massachusetts Gov. Mitt Romney holds his book during a campaign event at Flagler college, Monday, Aug. 13, 2012, in St. Augustine, Fla. (AP Photo/Mary Altaffer)\" border=\"0\" /></a>A group supporting Mitt Romney is spending more than $10 million on a new television advertisement criticizing President Barack Obama&#039;s handling of the economy.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/pro-romney-group-spends-10m-ad-campaign-130256830.html",
+     "pubDate": "Mon, 13 Aug 2012 13:49:07 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "pro-romney-group-spends-10m-ad-campaign-130256830"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l.yimg.com/bt/api/res/1.2/zg0TS_OlB4MrEre5haWe7w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/0956479abe8a2616180f6a7067007ab4.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/pro-romney-group-spends-10m-ad-campaign-130256830.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/zg0TS_OlB4MrEre5haWe7w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/0956479abe8a2616180f6a7067007ab4.jpg\" width=\"130\" height=\"86\" alt=\"A supporter of Republican presidential candidate, former Massachusetts Gov. Mitt Romney holds his book during a campaign event at Flagler college, Monday, Aug. 13, 2012, in St. Augustine, Fla. (AP Photo/Mary Altaffer)\" align=\"left\" title=\"A supporter of Republican presidential candidate, former Massachusetts Gov. Mitt Romney holds his book during a campaign event at Flagler college, Monday, Aug. 13, 2012, in St. Augustine, Fla. (AP Photo/Mary Altaffer)\" border=\"0\" /></a>A group supporting Mitt Romney is spending more than $10 million on a new television advertisement criticizing President Barack Obama&#039;s handling of the economy.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "World powers weigh emergency meeting on food prices",
+     "description": "<p><a href=\"http://news.yahoo.com/world-powers-weigh-emergency-meeting-food-prices-111231685.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/UlGlUcRGEE5gWpfw1DiAqg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T151838Z_1_CBRE87C16J400_RTROPTP_2_EUROPE-WHEAT-FRANCE.JPG\" width=\"130\" height=\"86\" alt=\"Wheat pours into a truck as a French farmer harvests his crop in Bugnicourt in northern France\" align=\"left\" title=\"Wheat pours into a truck as a French farmer harvests his crop in Bugnicourt in northern France\" border=\"0\" /></a>PARIS/LONDON (Reuters) - Leading members of the Group of 20 nations are prepared to trigger an emergency meeting to tackle soaring grain prices caused by the worst U.S. drought in more than half a century and poor crops from the Black Sea bread basket. France, the United States and G20 president Mexico will hold a conference call at the end of August to discuss whether an emergency international meeting is required, aiming to avoid a repeat of the food price spike that triggered riots in poorer countries in 2008. ...</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/world-powers-weigh-emergency-meeting-food-prices-111231685.html",
+     "pubDate": "Mon, 13 Aug 2012 13:47:49 -0400",
+     "source": {
+      "url": "http://www.reuters.com/",
+      "content": "Reuters"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "world-powers-weigh-emergency-meeting-food-prices-111231685"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l2.yimg.com/bt/api/res/1.2/UlGlUcRGEE5gWpfw1DiAqg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T151838Z_1_CBRE87C16J400_RTROPTP_2_EUROPE-WHEAT-FRANCE.JPG",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/world-powers-weigh-emergency-meeting-food-prices-111231685.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/UlGlUcRGEE5gWpfw1DiAqg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T151838Z_1_CBRE87C16J400_RTROPTP_2_EUROPE-WHEAT-FRANCE.JPG\" width=\"130\" height=\"86\" alt=\"Wheat pours into a truck as a French farmer harvests his crop in Bugnicourt in northern France\" align=\"left\" title=\"Wheat pours into a truck as a French farmer harvests his crop in Bugnicourt in northern France\" border=\"0\" /></a>PARIS/LONDON (Reuters) - Leading members of the Group of 20 nations are prepared to trigger an emergency meeting to tackle soaring grain prices caused by the worst U.S. drought in more than half a century and poor crops from the Black Sea bread basket. France, the United States and G20 president Mexico will hold a conference call at the end of August to discuss whether an emergency international meeting is required, aiming to avoid a repeat of the food price spike that triggered riots in poorer countries in 2008. ...</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Google to cut 4,000 Motorola Mobility jobs, shares rise",
+     "description": "<p><a href=\"http://news.yahoo.com/motorola-mobility-cut-20-percent-workforce-nyt-062943131--sector.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/eC5YqQbBxNLlR9IBbByQjA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T144557Z_5_CBRE87C0I1Q00_RTROPTP_2_MOTOROLAMOBILITY-GOOGLE.JPG\" width=\"130\" height=\"86\" alt=\"A Motorola Droid phone is seen displaying the Google search page in New York\" align=\"left\" title=\"A Motorola Droid phone is seen displaying the Google search page in New York\" border=\"0\" /></a>(Reuters) - Google Inc will slash 20 percent of the workforce of Motorola Mobility in the Internet search giant&#039;s largest job cuts ever as it moves to make more smartphones and fewer simple mobiles. The news sent Google&#039;s shares up as much as 2 percent but analysts said it was unclear if the cuts were enough to restore the fortunes of Motorola, whose last hit was the Razr flip-phone launched eight years ago. ...</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/motorola-mobility-cut-20-percent-workforce-nyt-062943131--sector.html",
+     "pubDate": "Mon, 13 Aug 2012 13:45:34 -0400",
+     "source": {
+      "url": "http://www.reuters.com/",
+      "content": "Reuters"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "motorola-mobility-cut-20-percent-workforce-nyt-062943131--sector"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l.yimg.com/bt/api/res/1.2/eC5YqQbBxNLlR9IBbByQjA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T144557Z_5_CBRE87C0I1Q00_RTROPTP_2_MOTOROLAMOBILITY-GOOGLE.JPG",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/motorola-mobility-cut-20-percent-workforce-nyt-062943131--sector.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/eC5YqQbBxNLlR9IBbByQjA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T144557Z_5_CBRE87C0I1Q00_RTROPTP_2_MOTOROLAMOBILITY-GOOGLE.JPG\" width=\"130\" height=\"86\" alt=\"A Motorola Droid phone is seen displaying the Google search page in New York\" align=\"left\" title=\"A Motorola Droid phone is seen displaying the Google search page in New York\" border=\"0\" /></a>(Reuters) - Google Inc will slash 20 percent of the workforce of Motorola Mobility in the Internet search giant&#039;s largest job cuts ever as it moves to make more smartphones and fewer simple mobiles. The news sent Google&#039;s shares up as much as 2 percent but analysts said it was unclear if the cuts were enough to restore the fortunes of Motorola, whose last hit was the Razr flip-phone launched eight years ago. ...</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Israel home to former Olympic legend",
+     "description": "<p><a href=\"http://news.yahoo.com/israel-home-former-olympic-legend-174150190.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/1va_Fq4rrDlNCRKsM7aEqw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/7f283ce9bedc2816180f6a7067003dd0.jpg\" width=\"130\" height=\"86\" alt=\"Agnes Keleti, a 91-year-old former Olympic gymnast, performs a split at her house in Herzliya, Israel, Monday, Aug. 13, 2012. Keleti won 10 Olympic medals, including 5 gold medals, while she represented Hungary in the Olympic games of 1948, 1952, and 1956. (AP Photo/Oded Balilty)\" align=\"left\" title=\"Agnes Keleti, a 91-year-old former Olympic gymnast, performs a split at her house in Herzliya, Israel, Monday, Aug. 13, 2012. Keleti won 10 Olympic medals, including 5 gold medals, while she represented Hungary in the Olympic games of 1948, 1952, and 1956. (AP Photo/Oded Balilty)\" border=\"0\" /></a>One of the world&#039;s most decorated Olympians is living quietly in Israel, a country that just wrapped up its participation in the world competition without a single medal.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/israel-home-former-olympic-legend-174150190.html",
+     "pubDate": "Mon, 13 Aug 2012 13:41:50 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "israel-home-former-olympic-legend-174150190"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l3.yimg.com/bt/api/res/1.2/1va_Fq4rrDlNCRKsM7aEqw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/7f283ce9bedc2816180f6a7067003dd0.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/israel-home-former-olympic-legend-174150190.html\"><img src=\"http://l3.yimg.com/bt/api/res/1.2/1va_Fq4rrDlNCRKsM7aEqw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/7f283ce9bedc2816180f6a7067003dd0.jpg\" width=\"130\" height=\"86\" alt=\"Agnes Keleti, a 91-year-old former Olympic gymnast, performs a split at her house in Herzliya, Israel, Monday, Aug. 13, 2012. Keleti won 10 Olympic medals, including 5 gold medals, while she represented Hungary in the Olympic games of 1948, 1952, and 1956. (AP Photo/Oded Balilty)\" align=\"left\" title=\"Agnes Keleti, a 91-year-old former Olympic gymnast, performs a split at her house in Herzliya, Israel, Monday, Aug. 13, 2012. Keleti won 10 Olympic medals, including 5 gold medals, while she represented Hungary in the Olympic games of 1948, 1952, and 1956. (AP Photo/Oded Balilty)\" border=\"0\" /></a>One of the world&#039;s most decorated Olympians is living quietly in Israel, a country that just wrapped up its participation in the world competition without a single medal.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "In Syria's Aleppo, hunger adds to suffering",
+     "description": "ALEPPO, Syria (Reuters) - Syrians who have yet to flee the war in Aleppo are facing another problem that is growing more acute by the day: hunger. As the prices of what little is available soar, there are increasing signs of desperation among parents seeking to feed families in a city where fighting between President Bashar al-Assad's forces and rebels shows no sign of abating. At a makeshift hospital set up to treat the wounded, a doctor said some were seeking food rather than medicine. \"People are coming to us now as a charity,\" said the doctor, speaking on condition of anonymity. ...",
+     "link": "http://news.yahoo.com/syrias-aleppo-hunger-adds-suffering-174016001.html",
+     "pubDate": "Mon, 13 Aug 2012 13:40:16 -0400",
+     "source": {
+      "url": "http://www.reuters.com/",
+      "content": "Reuters"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "syrias-aleppo-hunger-adds-suffering-174016001"
+     }
+    },
+    {
+     "title": "Syrian fighter jet crashes in flames, cause disputed",
+     "description": "<p><a href=\"http://news.yahoo.com/syrian-rebels-call-no-fly-zone-042646230.html\"><img src=\"http://l1.yimg.com/bt/api/res/1.2/g5u0aNMEAlXcfZeKeo2GmA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T173919Z_1_CBRE87C14FP00_RTROPTP_2_SYRIA-CRISIS.JPG\" width=\"130\" height=\"86\" alt=\"Free Syrian Army fighters sit behind a barricade on a street in Aleppo\" align=\"left\" title=\"Free Syrian Army fighters sit behind a barricade on a street in Aleppo\" border=\"0\" /></a>ALEPPO, Syria (Reuters) - A Syrian warplane crashed in flames in eastern Syria in disputed circumstances on Monday as President Bashar al-Assad&#039;s forces pursued their drive to quell rebels in Aleppo and elsewhere. State media said technical problems had caused the crash and a search was under way for the pilot who had ejected from the aircraft during a &quot;regular training mission&quot;. ...</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/syrian-rebels-call-no-fly-zone-042646230.html",
+     "pubDate": "Mon, 13 Aug 2012 13:39:19 -0400",
+     "source": {
+      "url": "http://www.reuters.com/",
+      "content": "Reuters"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "syrian-rebels-call-no-fly-zone-042646230"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l1.yimg.com/bt/api/res/1.2/g5u0aNMEAlXcfZeKeo2GmA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T173919Z_1_CBRE87C14FP00_RTROPTP_2_SYRIA-CRISIS.JPG",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/syrian-rebels-call-no-fly-zone-042646230.html\"><img src=\"http://l1.yimg.com/bt/api/res/1.2/g5u0aNMEAlXcfZeKeo2GmA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T173919Z_1_CBRE87C14FP00_RTROPTP_2_SYRIA-CRISIS.JPG\" width=\"130\" height=\"86\" alt=\"Free Syrian Army fighters sit behind a barricade on a street in Aleppo\" align=\"left\" title=\"Free Syrian Army fighters sit behind a barricade on a street in Aleppo\" border=\"0\" /></a>ALEPPO, Syria (Reuters) - A Syrian warplane crashed in flames in eastern Syria in disputed circumstances on Monday as President Bashar al-Assad&#039;s forces pursued their drive to quell rebels in Aleppo and elsewhere. State media said technical problems had caused the crash and a search was under way for the pilot who had ejected from the aircraft during a &quot;regular training mission&quot;. ...</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Belarus shot putter stripped of Olympic gold",
+     "description": "<p><a href=\"http://news.yahoo.com/belarus-shot-putter-stripped-olympic-gold-105642575--oly.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/0WiTnvuKv1HnGGo9bNmN9g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/b38c1938bda72216180f6a706700589a.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this Monday, Aug. 6, 2012 file photo, Belarus&#039; Nadzeya Ostapchuk takes a throw in the women&#039;s shot put final during the athletics in the Olympic Stadium at the 2012 Summer Olympics, London. Ostapchuk became the first athlete to be stripped of a medal at the London Olympics after her gold was withdrawn for doping. Valerie Adams of New Zealand will now take gold and Evgeniia Kolodko of Russia will get silver. Fourth-place finisher Gong Lijiao of China moves up to bronze. The International Olympic Committee said Monday Aug. 13, 2012 that Ostapchuk tested positive for the steroid metenolone. She won the shot put exactly a week earlier. The IOC says she was tested the day before her competition and again following the event. Both samples were positive. (AP Photo/Matt Dunham)\" align=\"left\" title=\"FILE - In this Monday, Aug. 6, 2012 file photo, Belarus&#039; Nadzeya Ostapchuk takes a throw in the women&#039;s shot put final during the athletics in the Olympic Stadium at the 2012 Summer Olympics, London. Ostapchuk became the first athlete to be stripped of a medal at the London Olympics after her gold was withdrawn for doping. Valerie Adams of New Zealand will now take gold and Evgeniia Kolodko of Russia will get silver. Fourth-place finisher Gong Lijiao of China moves up to bronze. The International Olympic Committee said Monday Aug. 13, 2012 that Ostapchuk tested positive for the steroid metenolone. She won the shot put exactly a week earlier. The IOC says she was tested the day before her competition and again following the event. Both samples were positive. (AP Photo/Matt Dunham)\" border=\"0\" /></a>Just hours after the close of the Olympics, a female shot putter from Belarus was stripped of her gold Monday in the first case of an athlete losing a medal for doping at the London Games.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/belarus-shot-putter-stripped-olympic-gold-105642575--oly.html",
+     "pubDate": "Mon, 13 Aug 2012 13:35:28 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "belarus-shot-putter-stripped-olympic-gold-105642575--oly"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l2.yimg.com/bt/api/res/1.2/0WiTnvuKv1HnGGo9bNmN9g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/b38c1938bda72216180f6a706700589a.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/belarus-shot-putter-stripped-olympic-gold-105642575--oly.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/0WiTnvuKv1HnGGo9bNmN9g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/b38c1938bda72216180f6a706700589a.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this Monday, Aug. 6, 2012 file photo, Belarus&#039; Nadzeya Ostapchuk takes a throw in the women&#039;s shot put final during the athletics in the Olympic Stadium at the 2012 Summer Olympics, London. Ostapchuk became the first athlete to be stripped of a medal at the London Olympics after her gold was withdrawn for doping. Valerie Adams of New Zealand will now take gold and Evgeniia Kolodko of Russia will get silver. Fourth-place finisher Gong Lijiao of China moves up to bronze. The International Olympic Committee said Monday Aug. 13, 2012 that Ostapchuk tested positive for the steroid metenolone. She won the shot put exactly a week earlier. The IOC says she was tested the day before her competition and again following the event. Both samples were positive. (AP Photo/Matt Dunham)\" align=\"left\" title=\"FILE - In this Monday, Aug. 6, 2012 file photo, Belarus&#039; Nadzeya Ostapchuk takes a throw in the women&#039;s shot put final during the athletics in the Olympic Stadium at the 2012 Summer Olympics, London. Ostapchuk became the first athlete to be stripped of a medal at the London Olympics after her gold was withdrawn for doping. Valerie Adams of New Zealand will now take gold and Evgeniia Kolodko of Russia will get silver. Fourth-place finisher Gong Lijiao of China moves up to bronze. The International Olympic Committee said Monday Aug. 13, 2012 that Ostapchuk tested positive for the steroid metenolone. She won the shot put exactly a week earlier. The IOC says she was tested the day before her competition and again following the event. Both samples were positive. (AP Photo/Matt Dunham)\" border=\"0\" /></a>Just hours after the close of the Olympics, a female shot putter from Belarus was stripped of her gold Monday in the first case of an athlete losing a medal for doping at the London Games.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Anti-immigrant party office in Greece firebombed",
+     "description": "Authorities say arsonists have firebombed an Athens office of a far-right, anti-immigrant party, a day after the suspected racist murder of an Iraqi man in the Greek capital.",
+     "link": "http://news.yahoo.com/anti-immigrant-party-office-greece-firebombed-173343209.html",
+     "pubDate": "Mon, 13 Aug 2012 13:33:43 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "anti-immigrant-party-office-greece-firebombed-173343209"
+     }
+    }
+   ]
+  }
+ }
+}

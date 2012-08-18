@@ -1,0 +1,37 @@
+
+.title {
+    background: #000;
+    color: #FFF;
+    font-size: 200%;
+    text-align: center;
+    padding: 0.3em;
+}
+
+.back-link {
+    background: #FBEFEF;
+    text-align: left;
+    padding: 0.3em;
+}
+
+.error {
+	color: red;
+    background: #CCC;
+}
+
+#edit-form {
+	background: #DDD;
+    border: 0.2em solid #666;
+	padding: 0.5em;
+}
+
+.cid {
+	color: green;
+}
+
+#save_msg {
+	color: red;
+	text-align:center;
+}
+
+dt { font-weight: bold; }
+.sel { background-color: #FF4; }

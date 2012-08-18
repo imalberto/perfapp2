@@ -1,0 +1,165 @@
+{
+ "query": {
+  "count": 40,
+  "created": "2012-08-13T19:27:14Z",
+  "lang": "en-US",
+  "diagnostics": {
+   "publiclyCallable": "true",
+   "redirect": {
+    "from": "http://rss.news.yahoo.com/rss/topstories",
+    "status": "301",
+    "content": "http://news.yahoo.com/rss/topstories"
+   },
+   "url": {
+    "execution-start-time": "1",
+    "execution-stop-time": "9",
+    "execution-time": "8",
+    "proxy": "DEFAULT",
+    "content": "http://rss.news.yahoo.com/rss/topstories"
+   },
+   "user-time": "11",
+   "service-time": "8",
+   "build-version": "29401"
+  },
+  "results": {
+   "item": [
+    {
+     "title": "Mayo Clinic: Jackson has bipolar depression",
+     "description": "<p><a href=\"http://news.yahoo.com/mayo-clinic-jackson-bipolar-depression-183640148.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/Boq3RAhU.lmmn8xoHzTzzg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/2260421ebf562a16180f6a706700c24f.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this March 20, 2012 file photo, Rep. Jesse Jackson Jr., D-Ill. speaks in Chicago. The Mayo Clinic in Rochester, Minn., said Monday, Aug. 13, 2012, that Jackson is being treated for bipolar disorder. (AP Photo/M. Spencer Green, File)\" align=\"left\" title=\"FILE - In this March 20, 2012 file photo, Rep. Jesse Jackson Jr., D-Ill. speaks in Chicago. The Mayo Clinic in Rochester, Minn., said Monday, Aug. 13, 2012, that Jackson is being treated for bipolar disorder. (AP Photo/M. Spencer Green, File)\" border=\"0\" /></a>U.S. Rep. Jesse Jackson Jr., a Chicago Democrat who took a hushed medical leave two months ago, is being treated for bipolar disorder, the Mayo Clinic announced Monday.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/mayo-clinic-jackson-bipolar-depression-183640148.html",
+     "pubDate": "Mon, 13 Aug 2012 15:08:03 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "mayo-clinic-jackson-bipolar-depression-183640148"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l2.yimg.com/bt/api/res/1.2/Boq3RAhU.lmmn8xoHzTzzg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/2260421ebf562a16180f6a706700c24f.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/mayo-clinic-jackson-bipolar-depression-183640148.html\"><img src=\"http://l2.yimg.com/bt/api/res/1.2/Boq3RAhU.lmmn8xoHzTzzg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/2260421ebf562a16180f6a706700c24f.jpg\" width=\"130\" height=\"86\" alt=\"FILE - In this March 20, 2012 file photo, Rep. Jesse Jackson Jr., D-Ill. speaks in Chicago. The Mayo Clinic in Rochester, Minn., said Monday, Aug. 13, 2012, that Jackson is being treated for bipolar disorder. (AP Photo/M. Spencer Green, File)\" align=\"left\" title=\"FILE - In this March 20, 2012 file photo, Rep. Jesse Jackson Jr., D-Ill. speaks in Chicago. The Mayo Clinic in Rochester, Minn., said Monday, Aug. 13, 2012, that Jackson is being treated for bipolar disorder. (AP Photo/M. Spencer Green, File)\" border=\"0\" /></a>U.S. Rep. Jesse Jackson Jr., a Chicago Democrat who took a hushed medical leave two months ago, is being treated for bipolar disorder, the Mayo Clinic announced Monday.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "Texas A&M says shooter apprehended near campus",
+     "description": "Texas A&M University says a shooter has been taken into custody near its campus in College Station.",
+     "link": "http://news.yahoo.com/texas-m-says-shooter-apprehended-near-campus-190436802.html",
+     "pubDate": "Mon, 13 Aug 2012 15:04:21 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "texas-m-says-shooter-apprehended-near-campus-190436802"
+     }
+    },
+    {
+     "title": "Brent up on supply concern, economy worries curb rise",
+     "description": "<p><a href=\"http://news.yahoo.com/brent-crude-rises-1-supply-disruption-fears-024417616--finance.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/hecHfLow2NT9i9wY7BmK5Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T155344Z_15_CBRE8750UCY00_RTROPTP_2_ITALY.JPG\" width=\"130\" height=\"86\" alt=\"An attendant prepares to refuel a car at a petrol station in Rome\" align=\"left\" title=\"An attendant prepares to refuel a car at a petrol station in Rome\" border=\"0\" /></a>NEW YORK (Reuters) - Brent crude prices rose on Monday in choppy trade, hitting a three-month peak on concerns about North Sea supply and Middle East tensions, while fears about a slowing global economy checked gains. U.S. crude fell for a second straight session and Wall Street equities slipped after six days of gains, weighed down by data showing Japan&#039;s economy expanded in the second quarter at half the pace expected. A separate report showing Greece&#039;s economy contracted by 6.2 percent on an annual basis in the quarter also fanned concerns about economic growth. ...</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/brent-crude-rises-1-supply-disruption-fears-024417616--finance.html",
+     "pubDate": "Mon, 13 Aug 2012 15:05:43 -0400",
+     "source": {
+      "url": "http://www.reuters.com/",
+      "content": "Reuters"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "brent-crude-rises-1-supply-disruption-fears-024417616--finance"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l.yimg.com/bt/api/res/1.2/hecHfLow2NT9i9wY7BmK5Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T155344Z_15_CBRE8750UCY00_RTROPTP_2_ITALY.JPG",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/brent-crude-rises-1-supply-disruption-fears-024417616--finance.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/hecHfLow2NT9i9wY7BmK5Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/Reuters/2012-08-13T155344Z_15_CBRE8750UCY00_RTROPTP_2_ITALY.JPG\" width=\"130\" height=\"86\" alt=\"An attendant prepares to refuel a car at a petrol station in Rome\" align=\"left\" title=\"An attendant prepares to refuel a car at a petrol station in Rome\" border=\"0\" /></a>NEW YORK (Reuters) - Brent crude prices rose on Monday in choppy trade, hitting a three-month peak on concerns about North Sea supply and Middle East tensions, while fears about a slowing global economy checked gains. U.S. crude fell for a second straight session and Wall Street equities slipped after six days of gains, weighed down by data showing Japan&#039;s economy expanded in the second quarter at half the pace expected. A separate report showing Greece&#039;s economy contracted by 6.2 percent on an annual basis in the quarter also fanned concerns about economic growth. ...</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "NBC halts Olympics for promotional monkeyshines",
+     "description": "<p><a href=\"http://news.yahoo.com/nbc-halts-olympics-promotional-monkeyshines-152808586.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/BhAAzt94uNkDOOmIYTgK5A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/9f904b85a6921716180f6a7067001245.jpg\" width=\"130\" height=\"86\" alt=\"The Who guitarist Pete Townsend, left, and singer Roger Daltrey perform during the Closing Ceremony at the 2012 Summer Olympics, Monday, Aug. 13, 2012, in London. (AP Photo/Matt Slocum)\" align=\"left\" title=\"The Who guitarist Pete Townsend, left, and singer Roger Daltrey perform during the Closing Ceremony at the 2012 Summer Olympics, Monday, Aug. 13, 2012, in London. (AP Photo/Matt Slocum)\" border=\"0\" /></a>Viewers were incensed Sunday night when NBC cut away from the Olympics&#039; conclusion to air a sitcom featuring a monkey.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/nbc-halts-olympics-promotional-monkeyshines-152808586.html",
+     "pubDate": "Mon, 13 Aug 2012 15:03:27 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "nbc-halts-olympics-promotional-monkeyshines-152808586"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l.yimg.com/bt/api/res/1.2/BhAAzt94uNkDOOmIYTgK5A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/9f904b85a6921716180f6a7067001245.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/nbc-halts-olympics-promotional-monkeyshines-152808586.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/BhAAzt94uNkDOOmIYTgK5A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/9f904b85a6921716180f6a7067001245.jpg\" width=\"130\" height=\"86\" alt=\"The Who guitarist Pete Townsend, left, and singer Roger Daltrey perform during the Closing Ceremony at the 2012 Summer Olympics, Monday, Aug. 13, 2012, in London. (AP Photo/Matt Slocum)\" align=\"left\" title=\"The Who guitarist Pete Townsend, left, and singer Roger Daltrey perform during the Closing Ceremony at the 2012 Summer Olympics, Monday, Aug. 13, 2012, in London. (AP Photo/Matt Slocum)\" border=\"0\" /></a>Viewers were incensed Sunday night when NBC cut away from the Olympics&#039; conclusion to air a sitcom featuring a monkey.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    },
+    {
+     "title": "UNC reviewing possible post of Peppers' transcript",
+     "description": "North Carolina is investigating how what appears to be a transcript for former football star Julius Peppers surfaced on the university's website.",
+     "link": "http://news.yahoo.com/unc-reviewing-possible-post-peppers-transcript-171405249--spt.html",
+     "pubDate": "Mon, 13 Aug 2012 15:03:13 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "unc-reviewing-possible-post-peppers-transcript-171405249--spt"
+     }
+    },
+    {
+     "title": "Former Susan G. Komen executive has book deal",
+     "description": "<p><a href=\"http://news.yahoo.com/former-susan-g-komen-executive-book-deal-163244491.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/QLpBGPqHkQiQExTRURDcwg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/bff92716bed02816180f6a706700bde5.jpg\" width=\"130\" height=\"86\" alt=\"FILE - This Feb. 7, 2012 file photo shows Karen Handel, former ice president for public policy for Susan G. Komen for the Cure breast-cancer charity, speaking during an interview in Atlanta. Handel, the former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal. Howard Books, an imprint of Simon &amp; Schuster, announced Monday, Aug. 13, that Karen Handel&#039;s &quot;Planned Bullyhood&quot; will come out Sept. 11. (AP Photo/John Bazemore, file)\" align=\"left\" title=\"FILE - This Feb. 7, 2012 file photo shows Karen Handel, former ice president for public policy for Susan G. Komen for the Cure breast-cancer charity, speaking during an interview in Atlanta. Handel, the former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal. Howard Books, an imprint of Simon &amp; Schuster, announced Monday, Aug. 13, that Karen Handel&#039;s &quot;Planned Bullyhood&quot; will come out Sept. 11. (AP Photo/John Bazemore, file)\" border=\"0\" /></a>The former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal.</p><br clear=\"all\"/>",
+     "link": "http://news.yahoo.com/former-susan-g-komen-executive-book-deal-163244491.html",
+     "pubDate": "Mon, 13 Aug 2012 14:59:18 -0400",
+     "source": {
+      "url": "http://www.ap.org/",
+      "content": "Associated Press"
+     },
+     "guid": {
+      "isPermaLink": "false",
+      "content": "former-susan-g-komen-executive-book-deal-163244491"
+     },
+     "content": {
+      "height": "86",
+      "type": "image/jpeg",
+      "url": "http://l.yimg.com/bt/api/res/1.2/QLpBGPqHkQiQExTRURDcwg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/bff92716bed02816180f6a706700bde5.jpg",
+      "width": "130"
+     },
+     "text": {
+      "type": "html",
+      "content": "<p><a href=\"http://news.yahoo.com/former-susan-g-komen-executive-book-deal-163244491.html\"><img src=\"http://l.yimg.com/bt/api/res/1.2/QLpBGPqHkQiQExTRURDcwg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9ODU7dz0xMzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/bff92716bed02816180f6a706700bde5.jpg\" width=\"130\" height=\"86\" alt=\"FILE - This Feb. 7, 2012 file photo shows Karen Handel, former ice president for public policy for Susan G. Komen for the Cure breast-cancer charity, speaking during an interview in Atlanta. Handel, the former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal. Howard Books, an imprint of Simon &amp; Schuster, announced Monday, Aug. 13, that Karen Handel&#039;s &quot;Planned Bullyhood&quot; will come out Sept. 11. (AP Photo/John Bazemore, file)\" align=\"left\" title=\"FILE - This Feb. 7, 2012 file photo shows Karen Handel, former ice president for public policy for Susan G. Komen for the Cure breast-cancer charity, speaking during an interview in Atlanta. Handel, the former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal. Howard Books, an imprint of Simon &amp; Schuster, announced Monday, Aug. 13, that Karen Handel&#039;s &quot;Planned Bullyhood&quot; will come out Sept. 11. (AP Photo/John Bazemore, file)\" border=\"0\" /></a>The former Susan G. Komen executive at the heart of the organization&#039;s clash with Planned Parenthood has a book deal.</p><br clear=\"all\"/>"
+     },
+     "credit": {
+      "role": "publishing company"
+     }
+    }
+   ]
+  }
+ }
+}

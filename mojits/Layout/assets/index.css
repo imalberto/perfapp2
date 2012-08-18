@@ -1,0 +1,124 @@
+.mojits ul{
+    box-shadow: 0.3em 0.3em 0.15em #6E6E6E;
+}
+
+.mojit-container {
+	background: url(//devimages.apple.com.edgekey.net/assets/elements/layout/background_linen.png);
+}
+
+ul.article h3 a {
+    color: #222;
+    text-decoration: none;
+}
+
+ul.article p {
+    text-align: justify;
+    color: #666;
+}
+ul.article img {
+	float: right;
+	clear: both;
+	border: 0.2em solid #6E6E6E;
+	margin: 0em 0em 0.5em 1em;
+}
+
+ul.article li {
+    overflow: hidden;
+    padding: 0.5em 1em 1em 1em;
+    background: #F8F8F8 ;
+    border-bottom:solid #6E6E6E;
+	height: 10em;
+	overflow: hidden;
+}
+
+li .title {
+    margin: 0em 0em 0.5em 0em;
+}
+
+li .title a {
+    color: #222;
+    text-decoration: none;
+}
+
+.article {
+    white-space: normal;
+}
+
+
+.error {
+	color: red;
+    background: #CCC;
+}
+
+#edit-form {
+	background: #DDD;
+    border: 0.2em solid #666;
+	padding: 0.5em;
+}
+
+.cid {
+	color: green;
+}
+
+.slots {
+    padding: 1em 1em 1em 1em;
+	background: url(//devimages.apple.com.edgekey.net/assets/elements/layout/background_linen.png);
+}
+
+.slots-tablet{
+	padding: 1em 0.5em 1em 0.5em;
+	background: url(//devimages.apple.com.edgekey.net/assets/elements/layout/background_linen.png);
+}
+
+#save_msg {
+	color: red;
+	text-align:center;
+}
+
+#slot1 {
+    padding: 0em 0em 0.5em 0em;
+	float: top;
+}
+#slot2 {
+    padding: 0.5em 0em 0em 0em;
+	float: top;
+}
+#slot3 {
+    padding: 0em 0em 0.5em 0em;
+	float: top;
+}
+#slot4 {
+    padding: 0.5em 0em 0em 0em;
+	float: top;
+}
+#slot12 {
+	padding: 1em 0.5em 0.5em 1em;
+	float: top;
+}
+#slot34 {
+	padding: 1em 0.5em 0.5em 0.5em;
+	float: top;
+}
+#slot5 {
+    padding: 1em 1em 0.5em 0.5em;
+	float: top;
+}
+#slot12345 {
+	white-space:nowrap;
+}
+#slot6 {
+    padding: 0.5em 0.5em 0.5em 1em;
+	float: top;
+}
+#slot7 {
+    padding: 0.5em 0.5em 0.5em 1em;
+	float: top;
+}
+#slot8 {
+    padding: 0.5em 1em 0.5em 0.5em;
+	float: top;
+}
+#slot9 {
+    padding: 0.5em 1em 0.5em 0.5em;
+	float: top;
+}

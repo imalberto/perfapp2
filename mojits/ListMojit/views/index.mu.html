@@ -1,0 +1,25 @@
+<div id="{{mojit_view_id}}" class="mojits">
+	{{^results}}
+	<h2 class="error">Configuration Loading Error!!! Please report to the admin!!</h2>
+	{{/results}}
+
+    <ul class="article">
+        {{#results}}
+        <li>            
+            {{#showTitle}}
+                <h3 class="title"><a href="{{link}}">{{title}}</a></h3>
+            {{/showTitle}}
+            {{#showImage}}
+                {{#images}}
+                    <img src="{{src}}"/>
+                {{/images}}
+            {{/showImage}}
+            {{#showDescription}}
+                <p>
+                    {{{description}}}
+                </p>
+            {{/showDescription}}
+        </li>
+        {{/results}}
+    </ul>
+</div>
