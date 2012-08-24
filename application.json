@@ -6,6 +6,26 @@
             "/Users/albertoc/fs/ric/git/firstbyte/src/mojits"
         ],
 
+        "log": {
+            "server": {
+                "level": "mojito",
+                "yui": false
+            },
+            "client": {
+                "level": "mojito",
+                "yui": false
+            }
+        },
+        "deployRuntimeClient": {
+            "useCompression": true,
+            "useDedupe": true,
+            "debug": true,
+            "yuiPrefix": "YY",
+            "mojitoPrefix": "ZZ",
+            "exclude": [
+                "log"
+            ]
+        },
         "viewEngine": {
             "mu": {
                 "bufferOutput": true
@@ -137,7 +157,7 @@
                 }
             },
             
-            "html_index": {
+            "html_app": {
                 "base": "html_frame",
                 "config": {
                     "child": {
@@ -145,7 +165,7 @@
                     }
                 }
             },
-            "firstbyte_index": {
+            "firstbyte_app": {
                 "base": "firstbyte_frame",
                 "config": {
                     "child": {
@@ -191,17 +211,10 @@
 
 
             "demo": {
-                "type": "FirstByteFrameMojit",
+                "type": "HTMLFrameMojit",
                 "config": {
                     "child": {
-                        "type": "Layout",
-                        "config": {
-                            "children": {
-                                "slot1": {
-                                    "type": "Demo"
-                                }
-                            }
-                        }
+                        "type": "Demo"
                     }
                 }
             }
@@ -212,16 +225,6 @@
         "settings": [ "environment:development" ],
         "staticHandling": {
             "forceUpdate": true
-        },
-        "deployRuntimeClient": {
-            "useCompression": false,
-            "useDedupe": true,
-            "debug": true,
-            "yuiPrefix": "YY",
-            "mojitoPrefix": "ZZ",
-            "exclude": [
-                "log"
-            ]
         }
     },
     {

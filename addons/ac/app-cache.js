@@ -33,7 +33,7 @@ YUI.add('app-cache-addon', function(Y, NAME) {
                     data = libfs.readFileSync(file);
                     data = Y.JSON.parse(data);
                     serverCache[key] = data;
-                    Y.log('-- CACHE MISS', 'debug', NAME);
+                    // Y.log('-- CACHE MISS', 'debug', NAME);
                 } catch (err) {
                     Y.log('error loading data from FS', 'error', NAME);
                     Y.log(err, 'error', NAME);
@@ -48,7 +48,7 @@ YUI.add('app-cache-addon', function(Y, NAME) {
         _getAppDir: function() {
             var pwd;
             pwd = process.cwd();
-            Y.log('-- current working dir: ' + pwd, 'info', NAME);
+            // Y.log('-- current working dir: ' + pwd, 'info', NAME);
             return pwd;
         },
         _getCacheDir: function() {
@@ -64,8 +64,6 @@ YUI.add('app-cache-addon', function(Y, NAME) {
                 if (model.setDebug) {
                     model.setDebug(this.ac.debug);
                 }
-                //model.setPerf(this.ac.perf);
-                //model.setDataEnv(this.ac.data_env);
                 return model;
             }
             return null;

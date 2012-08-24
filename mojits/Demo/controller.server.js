@@ -29,7 +29,10 @@ YUI.add('Demo', function(Y, NAME) {
          *        to the Mojito API.
          */
         index: function(ac) {
-            ac.done({}, { view: { engine: 'mu' } } );
+            ac.http.addHeader('Content-Language', 'en');
+            ac.done({}, { 
+                view: { engine: 'mu' } 
+            });
         }
 
     };

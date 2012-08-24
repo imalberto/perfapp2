@@ -27,7 +27,6 @@ YUI.add('ListMojit', function(Y, NAME) {
                 results;
 
             ac.assets.addCss('./index.css');
-            ac.assets.addCss('./ListMojit-css-asset.css');
 
             result = {};
             result.title = "Progressive insurance on defense after court case";
@@ -54,6 +53,6 @@ YUI.add('ListMojit', function(Y, NAME) {
 
     };
 
-}, '0.0.1', {requires: [
+}, '0.0.1', { requires: [
     'mojito'
 ]});
